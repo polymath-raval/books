@@ -1,0 +1,699 @@
+created_at,full_text,retweet_count,favorite_count,screen_name
+Wed Jan 12 18:52:44 +0000 2022,"Looking for a way into the field of machine learning? Our OpenAI Residency offers mentorship and a pathway to a full-time role for researchers and engineers who don't currently focus on AI. Applications close this Friday, Jan 14, at the end of the day. https://t.co/8UGqF92aN4",42,249,OpenAI
+Thu Dec 16 17:16:45 +0000 2021,"We trained a research version of GPT-3 that can search the web, synthesize information, and cite its sources to provide more accurate answers to questions. https://t.co/YEEazt0oLZ",359,1876,OpenAI
+Tue Dec 14 17:13:09 +0000 2021,Developers can now create a custom version of GPT-3 for their applications with a single command. Fine-tuning GPT-3 on your data improves performance for many use cases. See results👇 https://t.co/p67QfwbrEa,232,1087,OpenAI
+Tue Nov 30 21:33:51 +0000 2021,"Over the last three years we've made more than 20 full-time hires through our mentorship programs, representing one in six members of our technical staff. Join us!",4,113,OpenAI
+Tue Nov 30 21:33:51 +0000 2021,"We're excited to announce the OpenAI Residency! This new program offers a pathway to a full-time role at OpenAI for researchers and engineers who don't currently focus on AI.
+
+The program will focus on recruiting from underrepresented groups in technology. https://t.co/Umq6ObEeeE",113,588,OpenAI
+Thu Nov 18 14:28:01 +0000 2021,We introduced new safeguards to our API that make it possible to remove the waitlist. Now developers can sign up and explore GPT-3 right away. https://t.co/yj0ROcyHzt,640,2099,OpenAI
+Fri Oct 29 20:55:59 +0000 2021,"We've trained a system to answer grade-school math problems with double the accuracy of a fine-tuned GPT-3 model.
+
+Multistep reasoning is difficult for today's language models. We present a new technique to help. https://t.co/JRXUYZOSg7",190,1023,OpenAI
+Thu Sep 23 18:18:37 +0000 2021,"We want our AI systems to be aligned with human intentions.
+
+This is especially important as tasks get more difficult to evaluate.
+
+To develop techniques to address this problem, we trained a model to summarize books. https://t.co/NDnUtcjXFX",226,1027,OpenAI
+Wed Sep 08 15:43:51 +0000 2021,We're excited to announce @hlntnr of @CSETGeorgetown is joining our board of directors. Her deep understanding of AI policy will help us achieve our mission to deploy safe and responsible general-purpose AI. https://t.co/NuUxEzEOZq,43,366,OpenAI
+Fri Aug 13 01:40:19 +0000 2021,"The Codex Challenge is now closed. Congratulations to the 842 challengers who solved all 5 puzzles! Codex is taking a break after assisting with 23,439 completions.",40,490,OpenAI
+Thu Aug 12 19:13:39 +0000 2021,"Apologies to everyone who had trouble accessing the Codex Challenge this morning. We've fixed the servers, and we’re extending the competition by three hours. You have until 4pm PT to finish. Game on! https://t.co/ZHT14iq7dT",42,240,OpenAI
+Thu Aug 12 17:29:51 +0000 2021,The Codex Challenge servers are currently overloaded due to demand (Codex itself is fine though!). Team is fixing... please stand by.,35,595,OpenAI
+Wed Aug 11 21:03:48 +0000 2021,"Talking to Microsoft Word, with OpenAI Codex.
+
+Full video: https://t.co/gJOFHLSDyK https://t.co/lGX8UiJAcv",247,1136,OpenAI
+Wed Aug 11 19:50:07 +0000 2021,RT @gdb: Giving Codex a first grade math test: https://t.co/PT7S0Pl7Sh,173,0,OpenAI
+Wed Aug 11 18:49:05 +0000 2021,"""Hello World"" from OpenAI Codex.
+
+Full video: https://t.co/5YiqVkKYS3 https://t.co/xaD90SuX3n",159,776,OpenAI
+Wed Aug 11 17:27:41 +0000 2021,"The Codex Challenge begins at 10am PT tomorrow.
+
+Pre-register now: https://t.co/ZHT14iq7dT https://t.co/Iaxs0I6weT",19,120,OpenAI
+Wed Aug 11 17:05:59 +0000 2021,"Prediction: By lowering the barrier to entry to create software, Codex (and future models like it) will make it faster and more worthwhile for people to learn to code. https://t.co/ezF08NqnXR",59,411,OpenAI
+Wed Aug 11 14:34:06 +0000 2021,"Data science with OpenAI Codex.
+
+Full video: https://t.co/6bXTPhTjbP https://t.co/BxUybVmiZM",446,1810,OpenAI
+Tue Aug 10 20:02:57 +0000 2021,"Today's live demo of Codex, our AI that translates natural language to code: https://t.co/MkpiM4W7ow",275,995,OpenAI
+Tue Aug 10 18:48:39 +0000 2021,"Announcing a new kind of programming competition.
+
+Race the Internet to solve Python programming puzzles — together with Codex as both your teammate &amp; live competitor.
+
+Thursday 10am PT, pre-register now: https://t.co/ZHT14iq7dT https://t.co/OsTndpWtN4",88,562,OpenAI
+Tue Aug 10 17:55:30 +0000 2021,"OpenAI Codex has a qualitatively new capability — it can write code with sufficient accuracy that users can direct their computer in natural language.
+
+Codex is now in OpenAI API, for people to build new businesses or integrate with existing applications: https://t.co/n3U4DJ7fqC https://t.co/3ETsyXMQ7T",339,1238,OpenAI
+Tue Aug 10 16:55:33 +0000 2021,"Live demo of OpenAI Codex starting now! Join @gdb, @ilyasut and @woj_zaremba to see our AI's code-writing skills (and their limits) in action: https://t.co/IDxWTCVd7D",52,258,OpenAI
+Mon Aug 09 21:36:38 +0000 2021,"Powerful essay by @vauhinivara about loss, grief and finding words for life's most agonizing moments. https://t.co/BpqXOh0ENE",28,163,OpenAI
+Mon Aug 09 16:58:56 +0000 2021,See you tomorrow!👇 https://t.co/Te3ZQsIO3v,103,667,OpenAI
+Wed Aug 04 17:07:49 +0000 2021,"Live demo of the next generation of OpenAI Codex, our AI that writes code, on Twitch at 10am PT, Tues Aug 10th. 👀 https://t.co/CRx0goxVrh https://t.co/ETLdBmb0Xc",205,940,OpenAI
+Wed Jul 28 16:15:07 +0000 2021,"We’re releasing Triton 1.0, an open-source Python-like programming language for writing efficient GPU code. OpenAI researchers with no GPU programming experience have used Triton to produce kernels that are 2x faster than their PyTorch equivalents. https://t.co/bdovUjTMuF",1258,6456,OpenAI
+Tue Jun 29 15:27:09 +0000 2021,"Welcome, @github Copilot — the first app powered by OpenAI Codex, a new AI system that translates natural language into code.
+
+Codex will be coming to the API later this summer. https://t.co/T4wlqDtgAz",832,3061,OpenAI
+Thu Jun 10 17:51:11 +0000 2021,"We've found we can improve AI language model behavior and reduce harmful content by fine-tuning on a small, carefully designed dataset, and we are already incorporating this in our safety efforts. https://t.co/nJISaAyY2M https://t.co/AJe8bgkzRl",234,1233,OpenAI
+Wed May 26 17:25:03 +0000 2021,"We believe AI is the most interesting area for startups right now, and we want to fund ambitious founders building on our API. https://t.co/mOkZP1Fi1r",184,898,OpenAI
+Tue May 04 01:01:45 +0000 2021,We're delighted that @HurdOnTheHill is joining our board of directors. His leadership and expertise will help us achieve our shared goal of building AI that benefits all humankind. https://t.co/Vo7VdK4qk8,78,314,OpenAI
+Fri Mar 26 20:20:38 +0000 2021,"A thought-provoking, interactive long read by @pamelamishkin, collaborating with GPT-3 to tell a very human story. https://t.co/Qib6l6UjQy",164,643,OpenAI
+Thu Mar 25 19:16:40 +0000 2021,"🤩@askviable uses GPT-3 to give companies useful insights from customer feedback.
+🔎@algolia offers GPT-3-powered search that answers customer questions.
+🧑‍🎨@studio_fable's interactive stories feature characters in conversation w/ dialogue generated by GPT-3.👇 https://t.co/q2xi2xFpLK",48,237,OpenAI
+Thu Mar 25 19:15:58 +0000 2021,"In the 9 months since we launched GPT-3, developers have created extraordinary apps using our API. Today GPT-3's search, conversation, and text completion powers 300 applications focused on new ideas from productivity and education to creativity and games. https://t.co/UGk7yVb1H9",219,953,OpenAI
+Wed Mar 17 17:24:19 +0000 2021,RT @TechCrunch: Writing helper https://t.co/gvdRF1IJGD raises $2.9M in a round led by Craft Ventures https://t.co/QmDRQUA1Bz by @alex,64,0,OpenAI
+Fri Mar 05 01:51:37 +0000 2021,"We're participating in WELM/BIG-Bench, a collaborative effort to measure the capabilities and limitations of large language models. You can submit a task for the benchmark and/or workshop here: https://t.co/GenB6bJArm",35,262,OpenAI
+Thu Mar 04 20:24:31 +0000 2021,"This discovery is an important step toward understanding the associations and biases that large language models learn during training, so we and other AI practitioners can ultimately make them safer.",73,314,OpenAI
+Thu Mar 04 20:23:05 +0000 2021,"We've found that our latest vision model, CLIP, contains neurons that connect images, drawings and text about related concepts. https://t.co/zV6N4yvYcG",406,1509,OpenAI
+Thu Feb 25 23:49:07 +0000 2021,Excited to welcome @Create_Labs and @BlackWomenInAI to our developer community! https://t.co/qtStRm3TPd,46,257,OpenAI
+Wed Feb 24 22:00:29 +0000 2021,"RT @jeffclune: Thrilled to share that ""First return, then explore"" appears today in Nature! Go-Explore solves all unsolved Atari games*, en…",176,0,OpenAI
+Fri Feb 05 22:11:43 +0000 2021,OpenAI research scientists use their combined skill and creativity to expand what’s possible with machine learning. Apply now to join our team and solve impossible problems! https://t.co/QK1XEFO1V9,107,599,OpenAI
+Wed Feb 03 21:57:36 +0000 2021,"We’re looking for research engineers to build and scale AI systems that achieve unprecedented levels of performance. Apply now to join our team and solve impossible problems! 
+https://t.co/FeaMzqnw8e",177,683,OpenAI
+Mon Feb 01 19:50:09 +0000 2021,"Thinking about a career in AI research? The OpenAI Fellows program is looking for researchers from diverse backgrounds, with or without AI/ML experience, to work on ambitious AI projects. Apply now to join our team and help solve impossible problems! https://t.co/WHOwz6qAHj",223,798,OpenAI
+Mon Jan 25 19:07:31 +0000 2021,"Scaling Kubernetes to 7,500 nodes: https://t.co/DSPU3zNufY",163,846,OpenAI
+Tue Jan 05 19:39:43 +0000 2021,"We’ve developed two neural networks which have learned by associating text and images. CLIP maps images into categories described in text, and DALL-E creates new images, like this, from text. 
+
+A step toward systems with deeper understanding of the world. https://t.co/rppy6u1zcn https://t.co/MNVlo8LZbV",1006,3220,OpenAI
+Mon Dec 07 17:33:17 +0000 2020,🎉 Congratulations to the GPT-3 team for earning a Best Paper Award this morning at #NeurIPS2020! https://t.co/Gvc5brkZ5z,207,1597,OpenAI
+Sat Dec 05 01:50:18 +0000 2020,"Join us at NeurIPS 2020 to learn more about OpenAI's research, including live demos of GPT-3: https://t.co/Gvc5brkZ5z",109,600,OpenAI
+Tue Dec 01 21:11:32 +0000 2020,"RT @codeorg: Our new AI video series is HERE! 🎉💻🤖 Learn from leaders like @SatyaNadella, CEO of @Microsoft, and others at organizations lik…",125,0,OpenAI
+Thu Nov 12 20:34:58 +0000 2020,RT @TechCrunch: OthersideAI raises $2.6M to let GPT-3 write your emails for you https://t.co/i2Dnftby5F | by Devin Coldewey,79,0,OpenAI
+Fri Sep 04 16:07:50 +0000 2020,We've used reinforcement learning from human feedback to train language models for summarization. The resulting models produce better summaries than 10x larger models trained only with supervised learning: https://t.co/Sk31d1CnTu,506,2101,OpenAI
+Wed Jul 29 17:19:49 +0000 2020,"Applications are now open for our Fall 2020 Scholars program, which supports underrepresented groups in STEM to study deep learning full-time for 6 months. Apply here: https://t.co/pIvZkJXO6p",326,922,OpenAI
+Thu Jul 23 21:16:06 +0000 2020,"RT @gdb: We’ve received tens of thousands of applications for access to GPT-3 via our API. We want to serve everyone who wrote in, but it's…",144,0,OpenAI
+Thu Jul 23 20:12:41 +0000 2020,"We recognize these issues are complex; as an industry we need to work together to improve the way we tackle them. New projects that expand OpenAI’s work in these critical areas are underway, building on existing work in the field. Research &amp; product outputs to come. 8/8",17,187,OpenAI
+Thu Jul 23 20:12:40 +0000 2020,We’re deploying a content filtration system as a starting point to allow a developer to control what content can be returned. Technology alone won't be the answer; we're working with users and our Academic Access partners for a more comprehensive approach. 7/8,12,113,OpenAI
+Thu Jul 23 20:12:40 +0000 2020,"Before applications go live, they’re also subject to a review with the OpenAI team. Our technical enforcement is catching up to our policies, and the process is improving. We still have many policies to create. 6/8",8,79,OpenAI
+Thu Jul 23 20:12:40 +0000 2020,As we gain more experience operating the API in practice we expect to expand and refine these categories. We’re actively enforcing our terms of use. 5/8,6,55,OpenAI
+Thu Jul 23 20:12:40 +0000 2020,"We’ve shared API Usage Guidelines w/ users that include heuristics for safely developing applications. We do not support use cases which may cause physical or mental harm, including but not limited to harassment, intentional deception, radicalization, astroturfing, or spam. 4/8",7,70,OpenAI
+Thu Jul 23 20:12:40 +0000 2020,"Generative models can display both overt and diffuse harmful outputs, such as racist, sexist, or otherwise pernicious language. This is an industry-wide issue, making it easy for individual organizations to abdicate or defer responsibility. OpenAI will not. 3/8",10,101,OpenAI
+Thu Jul 23 20:12:40 +0000 2020,"We rolled out limited access to the API via a private beta, which is a way for us to understand the challenges of deploying open-ended generative models in the real world, but with mechanisms in place for safety. 2/8",7,69,OpenAI
+Thu Jul 23 20:12:39 +0000 2020,"Last month we released an API for developers to build on top of our latest technology: https://t.co/4BaTBWzRtQ. There’s been a lot of enthusiasm, but a great deal needs to be figured out as we scale up access. Here's how we're thinking about it. 1/8",231,1015,OpenAI
+Thu Jul 09 15:01:07 +0000 2020,"Over the past 5 months our 3rd class of Scholars researched how GPT-2 represents grammar, measured the interpretability of models trained on Coinrun, predicted epileptic seizures using brain recordings and more: https://t.co/XmKfSgdLB1",91,495,OpenAI
+Tue Jun 30 19:59:20 +0000 2020,We're proud to support the National Research Cloud initiative to direct more computation to academia: https://t.co/gybBQ6tqkZ,61,301,OpenAI
+Wed Jun 17 18:35:12 +0000 2020,"We found that just as a large transformer model trained on language can generate coherent text, the same exact model trained on pixel sequences can generate coherent image completions and samples. https://t.co/whREMuBvxx https://t.co/6AGsfx26gM",785,3168,OpenAI
+Thu Jun 11 17:47:31 +0000 2020,More details on our blog: https://t.co/v1KmZVY4c8,64,348,OpenAI
+Thu Jun 11 15:07:28 +0000 2020,"We're releasing an API for accessing new AI models developed by OpenAI. You can ""program"" the API in natural language with just a few examples of your task. See how companies are using the API today, or join our waitlist: https://t.co/SvTgaFuTzN https://t.co/uoeeuqpDWR",1234,4227,OpenAI
+Tue Jun 09 16:03:34 +0000 2020,"We're co-organizing two NeurIPS 2020 competitions using Procgen Benchmark and MineRL. We rely heavily on these environments internally for RL research, and we look forward to seeing the progress the community makes in these challenging competitions. https://t.co/ROe3zGAbwC",115,412,OpenAI
+Tue Jun 09 02:42:07 +0000 2020,"It’s not enough for a company to be non-racist or to tweet Black Lives Matter. We want to be actively anti-racist, and to do that we need to make proactive corrections when it comes to sharing space and opportunity. We’re committed to doing the work. (4/4)",27,304,OpenAI
+Tue Jun 09 02:41:03 +0000 2020,At OpenAI our aim is to ensure that advanced AI systems of the future are built to benefit everyone. That means we need to work harder to diversify our employees too. We’ve not done a good enough job on this to date. (3/4),70,255,OpenAI
+Tue Jun 09 02:40:26 +0000 2020,"We’re significantly expanding the number of Scholars, and we’d be excited if all additional slots go to members of the Black community, whom we will heavily recruit. We’ll share details in the coming weeks for this next class of Scholars. (2/4)",16,180,OpenAI
+Tue Jun 09 02:39:49 +0000 2020,"We’ve been talking at OpenAI about what we can do to help Black equity. We’re committing $1M to this cause via direct donations and expanding our Scholars program, which provides educational resources and mentoring to underrepresented groups in AI. (1/4)",214,1160,OpenAI
+Mon May 18 15:10:27 +0000 2020,"Our 3rd cohort of Scholars are wrapping up their final projects and we'd like to connect them with great companies in AI. If you're currently hiring ML researchers/engineers, fill out this form to participate in our (virtual) speed interview day June 17th! https://t.co/gLUq7vAXMV https://t.co/Uwb3ZCa06p",61,331,OpenAI
+Tue May 05 16:01:19 +0000 2020,"Since 2012, the amount of compute for training to AlexNet-level performance on ImageNet has been decreasing exponentially — halving every 16 months, in total a 44x improvement. 
+
+By contrast, Moore's Law would only have yielded an 11x cost improvement: https://t.co/nQnZ4uPXQf https://t.co/vRwfm2UlSq",372,1109,OpenAI
+Thu Apr 30 15:56:27 +0000 2020,"Introducing Jukebox, a neural net that generates music, including rudimentary singing, as raw audio in a variety of genres and artist styles. We're releasing a tool for everyone to explore the generated samples, as well as the model and code: https://t.co/EUq7hNZv62 https://t.co/sh5yHz7qrc",2474,8507,OpenAI
+Thu Apr 16 16:01:15 +0000 2020,We've contributed to a multi-stakeholder report by 58 co-authors at 30 organizations that describes 10 mechanisms to improve the verifiability of claims made about AI systems. https://t.co/Wxz0BY3qR5,116,346,OpenAI
+Tue Apr 14 15:47:28 +0000 2020,"Introducing OpenAI Microscope: a collection of visualizations of every layer and neuron in eight vision ""model organisms"" often studied in interpretability. This tool allows researchers to investigate down to individual units, and share those observations. https://t.co/9RxZwc5DOR",384,1184,OpenAI
+Thu Apr 02 18:28:09 +0000 2020,"We're hiring a senior technical recruiter to join our People Ops team! You'll develop, iterate on, and manage recruiting processes and systems from end-to-end; also source, pitch, screen and close top talent for our research org. Interested? Please apply! https://t.co/EkvMsmNVbK",56,115,OpenAI
+Tue Mar 10 15:37:58 +0000 2020,Want to participate in Circuits? Or just want a sneak peek into the next article? You can join the Distill slack circuits channel at https://t.co/HTxMxjs1cr,23,112,OpenAI
+Tue Mar 10 15:37:10 +0000 2020,"This post, called Zoom In, is the first in a new series called Circuits. Over the course of the series, we and our collaborators will flesh out how we think neural nets can be understood and explained.",17,147,OpenAI
+Tue Mar 10 15:36:23 +0000 2020,"We show how to read a human-interpretable algorithm from a neural network's weights, by studying the circuits formed by the connections between individual neurons: https://t.co/oX47rfEmqx https://t.co/YPtrowyt5k",455,1525,OpenAI
+Mon Mar 02 20:03:22 +0000 2020,"OpenAI's multi-agent team is currently hiring research scientists! Interested in multiple, interacting agents, AI-generating algorithms, open-ended algorithms, automatically generating training environments, deep RL, and more? Please apply! https://t.co/LNmyHoe8yp https://t.co/LEsPvr7DHY",143,657,OpenAI
+Thu Jan 30 17:00:31 +0000 2020,We're standardizing OpenAI's deep learning framework on PyTorch to increase our research productivity at scale on GPUs (and have just released a PyTorch version of Spinning Up in Deep RL): https://t.co/OGWFsij4Kb https://t.co/lgvqDdWDoB,572,2022,OpenAI
+Fri Dec 13 17:32:59 +0000 2019,"We're releasing ""Dota 2 with Large Scale Deep Reinforcement Learning"", a scientific paper analyzing our findings from our 3-year Dota project: https://t.co/6sMjRNzFXN
+
+One highlight — we trained a new agent, Rerun, which has a 98% win rate vs the version that beat @OGEsports. https://t.co/1kWvXwBHHp",614,1813,OpenAI
+Thu Dec 05 17:33:11 +0000 2019,"A surprising deep learning mystery:
+
+Contrary to conventional wisdom, performance of unregularized CNNs, ResNets, and transformers is non-monotonic: improves, then gets worse, then improves again with increasing model size, data size, or training time.
+
+https://t.co/3PwNElyNC8 https://t.co/Zdox9dbIBv",701,2108,OpenAI
+Tue Dec 03 17:02:11 +0000 2019,"We're releasing Procgen Benchmark, 16 procedurally-generated environments for measuring how quickly a reinforcement learning agent learns generalizable skills.
+
+This has become the standard research platform used by the OpenAI RL team: https://t.co/jK5uuD9cvL https://t.co/OhECCCAeY3",374,1046,OpenAI
+Thu Nov 21 16:58:45 +0000 2019,"We're releasing Safety Gym, environments and tools to evaluate reinforcement learning with safety constraints: https://t.co/3fj0at6UVV
+
+Aims to ultimately help agents satisfy real-world safety requirements while training (eg not driving off a cliff, not writing abusive content). https://t.co/VTwS4KoFS1",310,898,OpenAI
+Thu Nov 07 16:39:24 +0000 2019,"We've analyzed compute used in major AI results for the past decades and identified two eras in AI:
+
+1) Prior to 2012 - AI results closely tracked Moore's Law, w/ compute doubling every two years. 
+
+2) Post-2012 - compute has been doubling every 3.4 months https://t.co/DsFf0qpp0s https://t.co/ILN5MRrWYH",317,789,OpenAI
+Tue Nov 05 17:07:34 +0000 2019,"We're releasing the 1.5billion parameter GPT-2 model as part of our staged release publication strategy.
+- GPT-2 output detection model: https://t.co/PX3tbOOOTy
+- Research from partners on potential malicious uses: https://t.co/om28yMULL5
+- More details: https://t.co/d2JzaENiks https://t.co/O3k28rrE5l",651,1700,OpenAI
+Wed Oct 16 19:41:12 +0000 2019,"In case you missed it, here’s the unedited solve of the Rubik’s cube: https://t.co/Lre6otlwWi",74,251,OpenAI
+Wed Oct 16 19:38:16 +0000 2019,"Human hands let us solve a wide variety of tasks. Even so, solving a Rubik's Cube one-handed isn't easy for humans. We're excited to continue to develop new AI technology and ultimately ensure that these systems benefit all of humanity. https://t.co/0ntSeJ5ueG",100,348,OpenAI
+Wed Oct 16 15:05:14 +0000 2019,"""Solving the Rubik's Cube with a Robot Hand"" took many human hands over the past 2.5 years — meet our Robotics team! (PS they're hiring: https://t.co/gSCOW9bguI!) https://t.co/jeCUEDtYY3",106,711,OpenAI
+Tue Oct 15 16:35:31 +0000 2019,"We’re all used to robots that fail when their environment changes unpredictably. Our robotic system is adaptable enough to handle unexpected situations not seen during training, such as being prodded by a stuffed giraffe: https://t.co/wBoh1nt9Kv",415,1845,OpenAI
+Tue Oct 15 15:53:09 +0000 2019,"We've trained an AI system to solve the Rubik's Cube with a human-like robot hand.
+
+This is an unprecedented level of dexterity for a robot, and is hard even for humans to do.
+
+The system trains in an imperfect simulation and quickly adapts to reality: https://t.co/O04izt3KvO https://t.co/8lGhU2pPck",4452,11437,OpenAI
+Fri Oct 11 18:14:10 +0000 2019,"Now accepting applications for our 3rd class of OpenAI Scholars: a 4 month full-time program for individuals from underrepresented groups to study deep learning and produce an open-source project. Mentors include @mcleavey, @karlcobbe, @AlecRad: https://t.co/Xj5qVLi1ph",136,280,OpenAI
+Thu Sep 19 22:39:00 +0000 2019,"Wondering why the hiders did not cage in the seekers instead of building their own fort? In one environment variant where hiders have to protect glowing orbs, that's exactly what they learned to do! https://t.co/yifS7rI4eR",1745,5638,OpenAI
+Thu Sep 19 15:53:54 +0000 2019,"We've fine-tuned GPT-2 using human feedback for tasks such as summarizing articles, matching the preferences of human labelers (if not always our own). We're hoping this brings safety methods closer to machines learning values by talking with humans. https://t.co/ok9jeMP5zj",263,845,OpenAI
+Tue Sep 17 19:17:08 +0000 2019,"And seekers learn that if they run at a wall with a ramp at the right angle, they can launch themselves upward. https://t.co/SJv9SzctEp",295,1282,OpenAI
+Tue Sep 17 19:14:42 +0000 2019,"Unexpected and surprising behaviors included box surfing, where seekers learn to bring a box to a locked ramp in order to jump on top of the box and then “surf” it to the hider’s shelter. https://t.co/v0kGfCYZna",196,856,OpenAI
+Tue Sep 17 15:58:11 +0000 2019,"We've observed AIs discovering complex tool use while competing in a simple game of hide-and-seek. They develop a series of six distinct strategies and counterstrategies, ultimately using tools in the environment to break our simulated physics: https://t.co/2lbOxo19rL",1169,3298,OpenAI
+Tue Aug 27 20:14:25 +0000 2019,".@sama recently chatted with @kevin_scott in his latest podcast, ""Behind the Tech,"" and shared his thoughts on AI progress, building a mission-driven company, and the future of transformative technologies: https://t.co/MsUh5F85cK",70,169,OpenAI
+Thu Aug 22 15:49:13 +0000 2019,"We're releasing a new method to test for model robustness against adversaries not seen during training, and open-sourcing a new metric, UAR (Unforeseen Attack Robustness), which measures how robust a model is to an unanticipated attack: https://t.co/kT376fg4kE https://t.co/8yJdd6oD5T",218,619,OpenAI
+Tue Aug 20 16:02:40 +0000 2019,"GPT-2 6-month follow-up: we're releasing the 774M parameter model, an open-source legal doc organizations can use to form model-sharing partnerships, and a technical report about our experience coordinating to form new publication norms: https://t.co/wnLwmRt9jT",363,978,OpenAI
+Thu Aug 01 15:47:11 +0000 2019,"Each Thursday at OpenAI is Learning Day: a day where employees have the option to self-study technical skills that will make them better at their job but which aren't being learned from daily work.
+
+Here's how it works: https://t.co/swfpUfDEk3",339,1401,OpenAI
+Mon Jul 22 18:02:54 +0000 2019,"A conversation with @sama and @satyanadella about the promise of AGI, the need for massive compute power to make it real, and OpenAI/Microsoft's joint commitment to AI safety: https://t.co/uhjCeZ02XQ",101,359,OpenAI
+Mon Jul 22 13:02:13 +0000 2019,.@Microsoft is investing $1 billion in and partnering with OpenAI to support us building beneficial AGI: https://t.co/ueiPKAiXfa https://t.co/8Ebu9knHAk,568,1795,OpenAI
+Wed Jul 10 15:28:35 +0000 2019,Our newest policy research analyzes the game theory of industry cooperation on AI safety. We found 4 strategies the AI community can use today to enable long-term cooperation: https://t.co/AxMBQwORec https://t.co/VO8NDVeJKJ,147,365,OpenAI
+Fri Jun 28 15:02:30 +0000 2019,"We're releasing ORRB (OpenAI Remote Rendering Backend)—a Unity3d-based system that enables rapid and customizable renderings of robotics environments.
+
+Paper: https://t.co/JLjdE0Bzrj
+Code: https://t.co/cwc5v4F4vh https://t.co/NzaWu5OcyF",244,644,OpenAI
+Wed Jun 26 13:00:13 +0000 2019,"Our Policy Director, @jackclarkSF, will be testifying today w/ @mer__edith, @jovialjoy, and Georgia Tourassi before the House Committee on Science, Space, &amp; Technology at 7am PT/10am ET to discuss the Societal and Ethical Implications of AI. Watch live: https://t.co/Uglk0tUeUb",47,125,OpenAI
+Tue Jun 25 14:03:53 +0000 2019,Congrats to our very own @woj_zaremba on being named one of this year's MIT Tech Review Innovators Under 35 for his achievements in Robotics! https://t.co/eUXeI6cCWo,65,429,OpenAI
+Thu Jun 13 12:02:34 +0000 2019,"Our Policy Director, @jackclarkSF, will be testifying today to the House Intelligence Committee on ""The National Security Challenge of Artificial Intelligence, Manipulated Media, and 'Deepfakes' "" at 6amPT/9amET. Watch livestream: https://t.co/p9E5LyM9w0",79,227,OpenAI
+Wed Jun 05 16:09:50 +0000 2019,"Thanks again to our speakers @woj_zaremba, @jeffclune, @ChrisAtkeson, @ancadianadragan, @psermanet, Jin Joo Lee, and Leslie Kaelbling!",5,64,OpenAI
+Wed Jun 05 16:09:02 +0000 2019,"Last month we hosted our first Robotics Symposium. The goal: exchange ideas on how to create robots that learn. We brought together experts from classic robotics and deep learning, from academia and industry. See the talks: https://t.co/rbU9PJlqvj https://t.co/ewLKGCMr9E",88,276,OpenAI
+Thu May 23 15:41:48 +0000 2019,"Great work @coderphd, @jonmichaux, @LeSheepo, Elynn Chen, @Helen_econ, Yuhao Wan, @j_in_vr, @ElephantEdgar!",7,65,OpenAI
+Thu May 23 15:40:57 +0000 2019,"Congrats to our second class of OpenAI Scholars! With a combination of specially-crafted educational resources and dedicated mentors, all 8 Scholars designed and deployed a core ML project in just 3 months. https://t.co/XbtPaFQbi8
+
+Demo Day recording: https://t.co/sIwvdrZHWB https://t.co/hN5wVHUI7e",61,359,OpenAI
+Fri May 17 16:02:20 +0000 2019,"In just 6 months, our Fellows went from beginner to producing world-class ML contributions. Their accomplishments: MuseNet, analysis of bias/variance of gradients, implementations of very large scaling transformers, and learning adaptive weight sparsity: https://t.co/cCMIhg7qEh https://t.co/qsKgnKTENX",72,611,OpenAI
+Mon May 13 21:59:06 +0000 2019,"Tomorrow 5/14, we'll be hosting our Scholars Demo Day! Tune-in to our livestream at 5pm PST to see learn more about their work on intrinsic motivation for robotic tasks, fine-tuning GPT-2 for question answering, and more: https://t.co/sIwvdrZHWB
+
+https://t.co/j37BWIniAS",34,168,OpenAI
+Thu May 09 19:15:34 +0000 2019,"Last chance to try out our language model, GPT-2, at ICLR 2019! Check it out at our booth - members of the OpenAI team are happy to chat and will be around until 5pmCT. https://t.co/uJqVY6w7Pn",29,113,OpenAI
+Wed May 08 22:36:12 +0000 2019,"On Tues 5/14, we'll be hosting Scholars Demo Day. See what's been accomplished in the past 3 months: from intrinsic motivation for robotic tasks to fine-tuning GPT-2 for question answering. 
+
+Join us in person! Request an invite: https://t.co/TFRewqJsfO
+
+https://t.co/j37BWIETZs",21,102,OpenAI
+Fri May 03 22:27:40 +0000 2019,"Two mechanisms for publishing GPT-2 (and hopefully future powerful models): staged release and partnership-based sharing.
+
+We're:
+
+1. Releasing the 345M model
+2. Sharing the 1.5B model with partners working on countermeasures (please apply!) https://t.co/5SKNyaARAt",267,727,OpenAI
+Fri May 03 17:56:04 +0000 2019,"Our final #MuseNet ""Song of the Day"" winner goes to a new take on improvising video game music: https://t.co/sPzSrEYT8Q
+
+Created by @AlienaAngel",21,77,OpenAI
+Thu May 02 03:19:06 +0000 2019,"Our sixth #MuseNet ""Song of the Day"" features a new soundtrack for a silent film: https://t.co/oV2itPDAl1
+
+Created by @historyofai",18,70,OpenAI
+Wed May 01 16:50:46 +0000 2019,"Applications are open for the third class of OpenAI Fellows, a program designed for accomplished people who want to transition into AI research from another domain: https://t.co/WGygQzytkA
+
+Check out the projects from our first class of Fellows: https://t.co/Qnk4y6eHDG https://t.co/99TXtvuwLM",35,193,OpenAI
+Wed May 01 00:06:28 +0000 2019,"Our fifth #MuseNet ""Song of the Day"" winner goes to Rachmaninoff with the Pink Panther theme: https://t.co/ibLJTgweot
+
+Created by @lukecissell",14,83,OpenAI
+Tue Apr 30 02:17:55 +0000 2019,"Announcing our fourth #MuseNet ""Song of the Day"" winner - Chopin meets Mozart: https://t.co/wNmjBvL84S
+
+Created by @MiguelMotaPinto",63,233,OpenAI
+Mon Apr 29 20:40:13 +0000 2019,"Request an invite to our party @iclr2019 on Tuesday, 5/7! Great opportunity to connect with researchers from our Technical, Safety, and Policy teams! Space is limited; request invite here: https://t.co/d79dz3kLuC",10,58,OpenAI
+Mon Apr 29 01:13:14 +0000 2019,We're almost halfway through our #MuseNet contest (details here: https://t.co/pUBce3a6kj); our third winner combines Mozart with the Super Smash Bros videogame soundtrack: https://t.co/FK03zQBZ2D,12,74,OpenAI
+Sun Apr 28 04:14:37 +0000 2019,"Our second MuseNet ""Song of the Day"" winner has been chosen! This award goes to: https://t.co/D3xSQ9umcm",13,50,OpenAI
+Sat Apr 27 20:29:31 +0000 2019,The afternoon sessions for our Robotics Symposium will start shortly. First up: @ancadianadragan Watch live here: https://t.co/0RHDiasJMy,10,50,OpenAI
+Sat Apr 27 17:59:40 +0000 2019,"We did a live demonstration of our 'Learning Dexterity' project during the morning break at the Robotics Symposium. 
+
+More details here: https://t.co/gqqYekcvdL https://t.co/hbIogOCt85",64,228,OpenAI
+Sat Apr 27 15:07:08 +0000 2019,Our Robotics Symposium is today! Tune in from 9:15amPT to see talks about the future of AI and robotics: https://t.co/0RHDiasJMy https://t.co/X7pyW1FwEd,34,114,OpenAI
+Sat Apr 27 00:43:34 +0000 2019,"First MuseNet ""Song of the Day"" winner has been chosen! Award goes to: https://t.co/qZY8nv0Ge2
+
+In the last 24 hours, we saw:
+- 100k plays total of pre-generated MuseNet songs
+- 38,000 MuseNet samples co-composed
+- 29k unique MuseNet concert listeners",47,221,OpenAI
+Fri Apr 26 22:37:11 +0000 2019,"Watch our Robotics Symposium on Saturday 4/27 via livestream starting at 9:15amPT. This event will feature talks from @woj_zaremba, @jeffclune, @ChrisAtkeson, @ancadianadragan, @psermanet, Jin Joo Lee, and Leslie Kaelbling. Link: https://t.co/0RHDiasJMy https://t.co/IE0wDOJzqJ",115,449,OpenAI
+Thu Apr 25 22:01:15 +0000 2019,"Announcing our ""Song of the Day"" contest: create your own MuseNet composition (https://t.co/P0EQbRmQ8O), upload it to a hosted service https://t.co/pilBpdBfaM, and tweet it to @openai w/ the tag #MuseNet.
+
+We'll announce a new winner each day for the next week. It could be you! https://t.co/Csdwe42qqW",81,279,OpenAI
+Thu Apr 25 21:08:27 +0000 2019,"An interview with @nadipity discussing the results of the #OpenAIFive Finals, some of the challenges experienced with this project, and some insights into how Five operates in the Dota 2 environment: https://t.co/QVk38dZDT6",15,79,OpenAI
+Thu Apr 25 19:14:28 +0000 2019,"MuseNet is playing an experimental concert from now until 3pm PT on livestream: https://t.co/CRx0goxVrh
+
+No human curation or filtering involved — these are samples generated directly by MuseNet without any human intervention. Please enjoy! https://t.co/3B5oJMF8nU",82,269,OpenAI
+Thu Apr 25 16:55:45 +0000 2019,"Introducing MuseNet, a neural network which discovered how to generate music using many different instruments and styles. 
+Listen &amp; interact: https://t.co/yudNpaerz9
+
+MuseNet will play an experimental concert today from 12–3pmPT on livestream: https://t.co/CRx0goxVrh https://t.co/7tPMEd4tpa",688,1744,OpenAI
+Tue Apr 23 16:01:55 +0000 2019,"Releasing the Sparse Transformer, a network which sets records at predicting what comes next in a sequence — whether text, images, or sound. Improvements to neural 'attention' let it extract patterns from sequences 30x longer than possible previously: https://t.co/FZlDEPsi1A https://t.co/1cn1PO2nJX",567,1662,OpenAI
+Mon Apr 22 20:16:59 +0000 2019,"OpenAI Five spent the weekend playing with and against humans at Dota 2. Final win rate versus the Internet: 99.4%.
+
+Competitive games won: 7,215
+Competitive games lost: 42
+Cooperative games played: 35,466
+Total time spent playing: 10.7 years
+Number of human players: 30,937",357,1468,OpenAI
+Fri Apr 19 02:36:07 +0000 2019,RT @gdb: Experimental Arena livestream running at https://t.co/oYJSdYIcAq! Should have some cool content throughout the weekend but please…,19,0,OpenAI
+Fri Apr 19 01:10:41 +0000 2019,"OpenAI Five Arena is now OPEN!
+
+- Play against #OpenAIFive in competitive mode, or with it in cooperative mode: https://t.co/owmzogfOLg
+
+- Follow the leaderboard: https://t.co/L0rWNHRTpj
+
+Arena is live for this weekend only. https://t.co/bGNetcx6ny",153,530,OpenAI
+Fri Apr 19 00:10:31 +0000 2019,"RT @gdb: OpenAI Five Arena (https://t.co/1RrXTeNXsH) launching in an hour. Over 18,000 preregistrations! This is an experiment — we genuine…",49,0,OpenAI
+Mon Apr 15 17:18:47 +0000 2019,"OpenAI Five is now the first AI to beat the world champions in an esports game. Here's what happened, and how we made our comeback since losing to pros in Aug 2018: https://t.co/QH6yj0Gmz3 https://t.co/WvV4ERTvZt",655,2583,OpenAI
+Sat Apr 13 22:40:41 +0000 2019,"RT @gdb: Special announcement: we’re inviting the entire Internet to play OpenAI Five (whether as a competitor or teammate) at once.
+
+Sign…",196,0,OpenAI
+Sat Apr 13 21:12:10 +0000 2019,RT @gdb: No one’s ever seen anything like this before!!!!!! https://t.co/znnrKAasvl,10,0,OpenAI
+Sat Apr 13 20:58:06 +0000 2019,"RT @gdb: As promised, this event isn’t just about competition — OpenAI Five can also operate as a teammate to humans! Going to do demo that…",27,0,OpenAI
+Sat Apr 13 20:46:02 +0000 2019,"RT @gdb: OpenAI Five makes history by winning a best-of-three versus @OGesports, the Dota 2 world champions!!!! Huge congrats to the team a…",203,0,OpenAI
+Sat Apr 13 19:55:39 +0000 2019,RT @gdb: OpenAI Five wins game 1 versus @OGesports!!!!! First AI to ever defeat a professional esports team on a public livestream.,114,0,OpenAI
+Sat Apr 13 16:51:11 +0000 2019,"RT @FakePsyho: T-2.5 hours
+
+#OpenAIFive https://t.co/yyXKRAj2uj",21,0,OpenAI
+Sat Apr 13 16:49:23 +0000 2019,"If you can't watch the stream, you can still follow along:
+
+- @gdb will be live-tweeting from https://t.co/761iRrW7IJ
+- @FakePsyho will be live-tweeting from   https://t.co/dGrfadRKQX
+
+#OpenAIFive",13,66,OpenAI
+Sat Apr 13 15:10:02 +0000 2019,"Today's the day!!! Watch OpenAI Five Finals here, starting 11:30a PT: https://t.co/IDxWTCVd7D. This event will be the first time an AI has attempted to play the world champions in an esports game — and that won't be all we show today.
+
+https://t.co/jLLPixhlnz",419,1246,OpenAI
+Tue Mar 26 16:22:31 +0000 2019,Request an invite to attend in person: https://t.co/aIFV8wBYp4,27,138,OpenAI
+Tue Mar 26 16:21:13 +0000 2019,"RT @OGesports: We’re going to San Fransisco!
+We will face @OpenAI Five for their final live event on April 13th. 
+
+Read: https://t.co/jE5RN…",115,0,OpenAI
+Tue Mar 26 16:00:00 +0000 2019,"On April 13th, we'll host OpenAI Five Finals, a live event with surprises in store. One highlight will be playing against @OGesports, the Dota 2 world champions. Attend in person or watch on Twitch: https://t.co/4ZoZuktUln https://t.co/mm6xsfkdR2",649,2330,OpenAI
+Thu Mar 21 16:06:31 +0000 2019,"Progress towards stable and scalable training of energy-based models:
+💻Blog: https://t.co/gMo8g5sctT
+📝Paper: https://t.co/F9UlHf8JzI
+🔤Code: https://t.co/WGIOX4OKxZ https://t.co/6TaoNQtljZ",206,656,OpenAI
+Wed Mar 13 16:02:44 +0000 2019,"Meet the Spring 2019 class of OpenAI Scholars — who come from fields like economics, quantum physics and philosophy: https://t.co/Ud9yqYnLfn https://t.co/erMVlS6ceN",72,468,OpenAI
+Mon Mar 11 16:04:15 +0000 2019,"We’ve created OpenAI LP, a new “capped-profit” company that allows us to rapidly increase our investments in compute and talent while including checks and balances to actualize our mission. https://t.co/OAkatL2vyy https://t.co/loqckUZPzB",147,576,OpenAI
+Wed Mar 06 17:00:47 +0000 2019,"In collaboration with Google, we're releasing Activation Atlases: a new technique for visualizing what interactions between neurons can represent.
+
+💻Blog: https://t.co/nLfd0vpED4
+📝Paper: https://t.co/qh2gozddHE
+🔤Code: https://t.co/VwLN5j3uZo
+🗺️Demo: https://t.co/9d1PmPqt6H https://t.co/7c6Q6GvNLq",891,2216,OpenAI
+Mon Mar 04 16:58:08 +0000 2019,"We’re releasing a Neural MMO — a massively multiagent game environment that supports numerous populations of agents: https://t.co/nED4DfUeEo
+- Code: https://t.co/npVlxI0sTa
+- 3D Client: https://t.co/k7t0gPXo2I https://t.co/tEVPjxE7yP",715,2355,OpenAI
+Tue Feb 26 16:37:24 +0000 2019,"What we learned hosting our first Spinning Up in Deep RL workshop: https://t.co/qG4FMkoJgw
+Plus:
+- Video lectures: https://t.co/jzz3GdaJvi
+- Spinning Up GitHub repo: https://t.co/uKddb2Gnzq https://t.co/m2ov0nxyYg",165,569,OpenAI
+Tue Feb 19 16:21:24 +0000 2019,AI safety needs social scientists (and we're hiring!): https://t.co/WQajMyVTOZ https://t.co/agAFS3be2U,235,740,OpenAI
+Thu Feb 14 17:03:59 +0000 2019,"We've trained an unsupervised language model that can generate coherent paragraphs and perform rudimentary reading comprehension, machine translation, question answering, and summarization — all without task-specific training: https://t.co/sY30aQM7hU https://t.co/360bGgoea3",2668,6462,OpenAI
+Sat Feb 02 16:31:46 +0000 2019,Join our Spinning Up in Deep RL Workshop starting at 9amPT via livestream: https://t.co/jzz3GdaJvi,146,625,OpenAI
+Wed Dec 19 16:46:40 +0000 2018,"Check out the final projects from our first Fellows cohort, including work on generalization, scaling distributed neural networks, and stabilizing energy based models. Our Fellows program is a new 6-month apprenticeship in deep learning: https://t.co/pyGrsEDpjQ https://t.co/2ZwonUseDM",71,395,OpenAI
+Fri Dec 14 16:12:13 +0000 2018,"Announcing the first finding from our ""Science of AI"" effort: a simple statistical metric that lets us predict the parallelizability of neural network training on a wide range of tasks: https://t.co/axNXZWtTtJ https://t.co/oUsfwfCnnA",276,823,OpenAI
+Mon Dec 10 20:51:53 +0000 2018,"Deadline extension: Apply by Dec 15th to attend an in-person workshop at OpenAI on Feb 2nd 2019 about Spinning Up in Deep RL: https://t.co/CQhXu9lrGd
+
+Spinning Up in Deep RL details: https://t.co/AIDXaWzUC9",65,226,OpenAI
+Thu Dec 06 16:26:03 +0000 2018,"We’re releasing CoinRun, an environment generator that provides a metric for an agent’s ability to generalize across new environments - https://t.co/5yAYoti8zG https://t.co/2WRsQyn6Md",331,1029,OpenAI
+Sat Nov 17 16:00:12 +0000 2018,We will now be accepting applications for our Winter 2019 OpenAI Scholars program until 11/30. More details: https://t.co/DXFLxFXOgW https://t.co/DrRIswdBJE,88,316,OpenAI
+Fri Nov 16 19:26:58 +0000 2018,RT @DeepMindAI: Learning to play Atari games without rewards by combining human preferences and expert demonstrations (collaboration with @…,244,0,OpenAI
+Thu Nov 08 17:29:28 +0000 2018,"Releasing Spinning Up in Deep RL, a new educational package to let anyone become a deep reinforcement learning practitioner: https://t.co/AIDXaWzUC9
+
+Next year, we'll teach workshops on Spinning Up at CHAI, OpenAI, and other venues. https://t.co/94aWDyXcaR",472,1364,OpenAI
+Wed Nov 07 16:27:42 +0000 2018,"We’ve built an energy-based model that can quickly recognize, generate, and transfer simple concepts after only 5 training demos: https://t.co/JD5Lt8ZYIb https://t.co/62A4QNbyIH",321,1094,OpenAI
+Tue Nov 06 20:45:24 +0000 2018,"Introducing POLO, a framework that lets us learn tasks on the fly like humanoid locomotion and dexterous in-hand manipulation. Collaboration with the University of Washington. https://t.co/dW7nDAaBBy https://t.co/IUm9qAyCqS",169,633,OpenAI
+Wed Oct 31 18:47:24 +0000 2018,"RT @gdb: An agent which learned to play Mario without rewards. Instead, it was incentivized to avoid ""boredom"" (that is, getting into state…",3019,0,OpenAI
+Wed Oct 31 16:01:06 +0000 2018,Random Network Distillation: A prediction-based method that achieves state-of-the-art performance on Montezuma’s Revenge -https://t.co/wR64G37cJN https://t.co/rdMdE5tPGf,162,545,OpenAI
+Fri Oct 26 16:02:12 +0000 2018,"Want to help us build out our world-class team of engineers, researchers, policy experts, and more ensuring that safe artificial general intelligence benefits all of humanity? Apply to be a Recruiter at OpenAI: https://t.co/YK1F4IG7mQ",63,251,OpenAI
+Mon Oct 22 15:42:28 +0000 2018,Iterated Amplification: An AI safety technique that has the potential to let us specify behaviors and goals that are beyond human scale: https://t.co/WdepN8w4fO https://t.co/riuiVg8Jfv,331,956,OpenAI
+Thu Oct 11 15:50:34 +0000 2018,"Apply for our Winter 2019 OpenAI Scholars Program, open to individuals from underrepresented groups in STEM interested in becoming deep learning practitioners -https://t.co/DXFLxFXOgW https://t.co/N796rfSs5x",132,408,OpenAI
+Tue Oct 09 16:31:29 +0000 2018,Come join the OpenAI team as a Fellow or Intern in 2019 — applications now open: https://t.co/cU1aMxirBp! https://t.co/MgGJMnWWlC,122,543,OpenAI
+Fri Sep 21 18:04:11 +0000 2018,RT @gdb: Have been making serious progress on OpenAI Five. Looking for Dota teams with average MMR 6.5k+ or Tier 3 and higher to test the l…,79,0,OpenAI
+Mon Sep 10 16:05:17 +0000 2018,"Neural waltzes, semantic trees, CycleGANs, and more - details on OpenAI Scholars' 2018 Final Projects: https://t.co/rPxQWCj5Ff
+Demo day in San Francisco on September 20th!",153,516,OpenAI
+Thu Sep 06 18:12:41 +0000 2018,"1. Double model size
+2. Initialize from old parameters
+3. 10 additional days of training
+
+Result: 80% win rate versus model that played on-stage at The International vs paiN Gaming. https://t.co/XTeMwJmkW6",177,997,OpenAI
+Fri Aug 24 01:22:17 +0000 2018,Our results at The International 2018: https://t.co/9rjGncvyNH,148,527,OpenAI
+Fri Aug 24 00:40:11 +0000 2018,"RT @gdb: Congratulations to Xiao8, BurNIng, rOtK, Ferrari_430, SanSheng — top-tier Dota players who defeated OpenAI Five after 45 mins of e…",66,0,OpenAI
+Thu Aug 23 23:27:09 +0000 2018,"OpenAI Five's second match at The International will start in the next few minutes. Will be streamed on The International's Twitch channels: 
+- English: https://t.co/EuqemAAKEu
+- For newcomers: https://t.co/2H4PQXrd3D",41,216,OpenAI
+Thu Aug 23 00:53:33 +0000 2018,"RT @gdb: Congratulations to Team paiN, the Dota 2 pro team who just beat OpenAI Five in a 51 minute game. Lots of extremely exciting plays…",185,0,OpenAI
+Wed Aug 22 23:46:12 +0000 2018,"OpenAI Five match starting now: https://t.co/EuqemAAKEu !
+
+https://t.co/OOrdb8Dcav",78,275,OpenAI
+Wed Aug 22 19:21:40 +0000 2018,"First OpenAI Five match at The International today!
+
+- Streamed on The International's Twitch channels. English: https://t.co/EuqemAAKEu . For newcomers: https://t.co/2H4PQXrd3D
+- Held at the end of today's 1p PT matches — likely be around 3p PT.
+
+https://t.co/FSZfI7vo7G",103,362,OpenAI
+Tue Aug 21 19:03:35 +0000 2018,"We've updated OpenAI Baselines, our collection of high-quality implementations of RL algorithms. New features: 
+- Common experiment interface
+- Reusable policy building code
+- Benchmarks on Atari and Mujoco
+Get started: https://t.co/vPStWSjAWt",162,559,OpenAI
+Mon Aug 20 19:40:09 +0000 2018,"Post-game analysis of the OpenAI Five Benchmark games, with @Blitz_DotA and @keepingitKyle: https://t.co/cY9nQO3GAN",31,165,OpenAI
+Mon Aug 20 17:50:15 +0000 2018,"OpenAI Five will be playing against five of the world's top Dota 2 professionals in front of nearly 20,000 audience members at The International on Wednesday, Thursday, and Friday: https://t.co/ROnO8fa3kI",454,1409,OpenAI
+Thu Aug 16 01:42:53 +0000 2018,RT @gdb: Looking for Dota teams with average MMR 6k+ to test the latest version of OpenAI Five. This week &amp; weekend only! Please ping brook…,86,0,OpenAI
+Mon Aug 06 16:22:33 +0000 2018,A major step in our understanding of OpenAI Five: https://t.co/ki0AiB0BIK,319,863,OpenAI
+Mon Aug 06 01:43:11 +0000 2018,"RT @cbd: Exciting match today! OpenAI Five won first 2 games, and humans won 1 with the audience picking the draft in favor of the humans.…",158,0,OpenAI
+Sun Aug 05 23:28:29 +0000 2018,RT @gdb: And that’s game!!!!! Humans win game 3! Congratulations to @Blitz_DotA and friends!!!!,43,0,OpenAI
+Sun Aug 05 23:13:52 +0000 2018,RT @gdb: OpenAI Five declares the win probability to be less than 1%. This is the closest thing to a gg that they do!!! Great plays by the…,33,0,OpenAI
+Sun Aug 05 22:45:58 +0000 2018,RT @gdb: Win probabilities revealed now: Five thinks it has a 2.9% chance of winning after audience adversarially picks its hero lineup. Cr…,20,0,OpenAI
+Sun Aug 05 22:36:40 +0000 2018,RT @gdb: This time: Twitch chat and audience will pick the heroes that OpenAI Five plays. Expecting an adversarial lineup. Should be intere…,20,0,OpenAI
+Sun Aug 05 22:05:38 +0000 2018,RT @gdb: Humans call gg for game 2!!!! OpenAI Five has won a best of three vs top 99.95th percentile of Dota players. Extremely good play b…,160,0,OpenAI
+Sun Aug 05 21:16:55 +0000 2018,"RT @gdb: Humans call gg (good game, resigning the game)!!!!! OpenAI Five wins game number one versus top 99.95th percentile Dota players.",113,0,OpenAI
+Sun Aug 05 20:41:55 +0000 2018,RT @gdb: Revealed: OpenAI Five now supports drafting. Adds a new layer of dynamism to the game! Very excited to see how these top 99.95th p…,16,0,OpenAI
+Sun Aug 05 18:26:50 +0000 2018,Official event hashtag: #openai5.,28,130,OpenAI
+Sun Aug 05 18:09:43 +0000 2018,"Reminder: OpenAI Benchmark is today! Watch live at https://t.co/IDxWTCVd7D starting 12:30p PT (main event at 1:15p). Follow @gdb and @cbd for livetweeting from the event. Good luck, have fun to both teams! https://t.co/mHnlER1E3D",180,478,OpenAI
+Sat Aug 04 17:10:25 +0000 2018,RT @gdb: Stayed up late last night integrating @benbarry's awesome new OpenAI Five logo into the Dota UI. Some features are just worth stay…,67,0,OpenAI
+Fri Aug 03 17:41:09 +0000 2018,"We'll be hosting an Intern Open House — Aug 16, 7p at our office in SF. Learn about what our interns have been working on, and get a sneak peak of our in-flight projects. Open to anyone interested in an internship at OpenAI. Request invite here: https://t.co/CH4Mm3Q1FZ",45,229,OpenAI
+Thu Aug 02 16:47:06 +0000 2018,"RT @gdb: How to watch OpenAI Five Benchmark:
+
+- OpenAI Benchmark will be livestreamed in English, Russian, and Chinese
+- Stream starts 12:3…",249,0,OpenAI
+Wed Aug 01 17:56:34 +0000 2018,RT @cbd: Some resources to learn more about Dota: https://t.co/qpC2kYX5Mg before OpenAI Five plays 99.95th-percentile players live on Sunda…,37,0,OpenAI
+Tue Jul 31 17:13:08 +0000 2018,RT @gdb: Announcing the fifth player for the OpenAI Five Benchmark event on Sunday — pro player MoonMeander: https://t.co/JKwQccWUoQ. Will…,50,0,OpenAI
+Mon Jul 30 16:09:38 +0000 2018,"A real robot hand, trained with same learning algorithm and code as OpenAI Five, has learned human-like motions to rotate objects: https://t.co/PCScd0wAo6",563,1416,OpenAI
+Wed Jul 25 16:35:02 +0000 2018,The first class of OpenAI Scholars are @mcleavey @ahandvanish @hollygrimm @ianiemeka @Munashe @ohnadj @sopharicks and @ALLHailDolapo,13,123,OpenAI
+Wed Jul 25 16:10:28 +0000 2018,"Introducing our first class of OpenAI Scholars, eight exceptional newcomers to ML: https://t.co/MTtsBpOnmC",149,647,OpenAI
+Wed Jul 25 01:54:23 +0000 2018,RT @gdb: Looking for Dota teams with average MMR 6k+ to test OpenAI Five in advance of the Aug 5th Benchmark. Interested in playing? Contac…,135,0,OpenAI
+Wed Jul 18 16:26:43 +0000 2018,OpenAI Five will be playing a team including @Blitz_DotA @DotACapitalist @Foggeddota @MerliniDota. Games will be streamed on Twitch and casted by @PurgeGamers and @ODPixel.,171,801,OpenAI
+Wed Jul 18 16:26:06 +0000 2018,"We’ve removed the most significant restrictions on OpenAI Five’s gameplay — wards, Roshan, mirror match. We'll play 99.95th-percentile players on August 5th to see if we have any hope of beating top professionals by The International at end of August: https://t.co/kNOVWi87Hh",480,1959,OpenAI
+Mon Jul 09 16:06:57 +0000 2018,"Synthesizing realistic high-resolution images with Glow, a new reversible generative model: https://t.co/WIa9aI6NGU https://t.co/vdCruz17li",432,1277,OpenAI
+Wed Jul 04 16:00:25 +0000 2018,New high score on Montezuma's Revenge using only a single demonstration: https://t.co/3IVl04GjaY,186,614,OpenAI
+Wed Jun 27 00:24:57 +0000 2018,"RT @BillGates: #AI bots just beat humans at the video game Dota 2. That’s a big deal, because their victory required teamwork and collabora…",5076,0,OpenAI
+Mon Jun 25 23:10:35 +0000 2018,"OpenAI co-founder @gdb will be testifying on Capitol Hill on Artificial General Intelligence, Tuesday at 10:30a ET. Hearing will be livestreamed: https://t.co/HwAbsinjkq",103,366,OpenAI
+Mon Jun 25 14:03:21 +0000 2018,"Our team of five neural networks, OpenAI Five, has started to defeat amateur human teams (including a semi-pro team) at Dota 2: https://t.co/Q5UD85p6iQ",881,2386,OpenAI
+Fri Jun 22 16:46:46 +0000 2018,Retro Contest: Results. https://t.co/PfsPQsybQ4 https://t.co/tlgngGoJq2,277,871,OpenAI
+Mon Jun 11 18:14:10 +0000 2018,Fine-tuning an unsupervised pretrained transformer to set new state-of-the-art on diverse language tasks: https://t.co/Fi9ba7JnMj,275,833,OpenAI
+Mon Jun 04 01:36:01 +0000 2018,OpenAI Charter: Now available in Chinese: https://t.co/luYP0j87qs,55,225,OpenAI
+Thu May 31 00:29:37 +0000 2018,"We're hosting a meetup at the OpenAI office in San Francisco, Monday June 4th from 7:30p-10:30p. Come discuss machine learning &amp; AI with awesome people! Space is limited; request to attend here: https://t.co/6pn1ISFqV7",51,257,OpenAI
+Wed May 30 16:09:19 +0000 2018,"Now accepting applications for OpenAI Fellows, apprenticeships for people with varied skills who want to transition into AI research: https://t.co/CzHLkNLekG",213,712,OpenAI
+Fri May 25 16:15:51 +0000 2018,"Releasing Gym Retro — 1000+ games for reinforcement learning research, plus an integrator tool to add your own classic games. https://t.co/V5unhRknY4 https://t.co/kRbtvsOubi",681,1800,OpenAI
+Wed May 16 16:02:08 +0000 2018,"AI and Compute: Our analysis showing that the amount of compute used in the largest AI training runs has had a doubling period of 3.5 months since 2012 (net increase of 300,000x): https://t.co/YH4tZXirtU",456,1114,OpenAI
+Thu May 03 16:06:07 +0000 2018,AI Safety via Debate: why arguments between agents might let us evaluate powerful AI systems: https://t.co/INCaO84v6d https://t.co/Ka0mrwvFXf,185,501,OpenAI
+Fri Apr 27 21:24:42 +0000 2018,"Concept Learning with Energy-Based Models (https://t.co/8gYvMScz0X, tl;dr: energy based models can quickly infer concepts of sets of 2d points). Wednesday May 2nd, Workshop, 11am-1pm, East Meeting Level 8 + 15 #3",17,89,OpenAI
+Fri Apr 27 21:24:42 +0000 2018,"Improving GANs Using Optimal Transport (https://t.co/z2ns3jEPHi, tl;dr: using optimal transport for a more stable GAN algorithm). Thursday May 3rd, 4:30-6:30pm, East Meeting level: 1,2,3 #16",22,96,OpenAI
+Fri Apr 27 21:24:42 +0000 2018,"Parameter Space Noise for Exploration (https://t.co/t8lCGgiZY4, tl;dr: adding noise to parameters can help with exploration). Thursday May 3rd, 11am-1pm, East Meeting level: 1,2,3 #7",6,36,OpenAI
+Fri Apr 27 21:24:42 +0000 2018,"Emergent Complexity via Multi-Agent Competition (https://t.co/vBJCRo4CfD, tl;dr: self-play discovers martial arts and other cool athletic behaviors, https://t.co/BbmbIlF1Nk). Thursday May 3rd 11am-1pm, East Meeting level: 1,2,3 #19",17,47,OpenAI
+Fri Apr 27 21:24:41 +0000 2018,"Learning Sparse Neural Networks through L0 Regularization (https://t.co/Y0m5XSsZm2, tl;dr: a distribution over weights makes L0 regularization differentiable). Poster, Wednesday May 2nd, 11am-1pm, East Meeting level: 1,2,3 #32",13,54,OpenAI
+Fri Apr 27 21:24:41 +0000 2018,"Continuous Adaptation via Meta-Learning in Nonstationary and Competitive Environments (https://t.co/1V37yplBIb, tl;dr: agents that meta-learn outcompete agents that don't, https://t.co/wqJ7aZrLB2). Best paper award, Thursday May 3rd, 10:15-10:30am, Exhibition Hall A",18,62,OpenAI
+Fri Apr 27 21:24:41 +0000 2018,"Variance Reduction for Policy Gradient with Action-Dependent
+Factorized Baselines (https://t.co/yFidr5Gorq, tl;dr: action-dependent baselines can help). Thursday May 3rd, 10-10:15am @ Exhibition Hall A",8,35,OpenAI
+Fri Apr 27 21:24:41 +0000 2018,"OpenAI will be at ICLR2018, please check out our contributions (including winner of the best paper award) if you'll be there:",61,297,OpenAI
+Tue Apr 24 19:19:24 +0000 2018,RT @adamdangelo: I'm excited to be joining the OpenAI board. I continue to think that work toward general AI (with safety in mind) is both…,106,0,OpenAI
+Wed Apr 18 16:05:15 +0000 2018,"Releasing Evolved Policy Gradients, an experimental metalearning technique to let agents rapidly learn to solve novel tasks: https://t.co/UYnBsQXpuZ https://t.co/wLt8dyvV5n",229,640,OpenAI
+Mon Apr 09 16:02:10 +0000 2018,OpenAI Charter: https://t.co/luYP0j87qs,203,595,OpenAI
+Thu Apr 05 18:07:45 +0000 2018,Introducing the OpenAI Retro Contest — a contest where agents use their past experience to adapt to new environments: https://t.co/GxPBiZoFbY,291,758,OpenAI
+Thu Mar 15 15:57:11 +0000 2018,Report from the OpenAI Hackathon: https://t.co/4n2U6FKAUZ https://t.co/k14qGvGAm1,101,415,OpenAI
+Mon Mar 12 18:24:28 +0000 2018,How the Hindsight Experience Replay algorithm works and the Gym robotics environments it solves: https://t.co/tPFyfooqKc,118,345,OpenAI
+Wed Mar 07 17:09:08 +0000 2018,"Releasing Reptile, a Scalable Meta-Learning Algorithm: https://t.co/JQB60XRaQi
+- Try it out with our interactive tool for few-shot classification.",398,1097,OpenAI
+Tue Mar 06 17:30:10 +0000 2018,Now accepting applications for OpenAI Scholars: mentorship and financial support for people from underrepresented groups to get into AI. https://t.co/EM7L6X3lQR,444,975,OpenAI
+Mon Feb 26 17:10:41 +0000 2018,"Ingredients for Robotics Research: https://t.co/tPFyfo6PSE
+- Hindsight Experience Replay (HER) in Baselines.
+- New robotics environments in Gym.
+- Request for Research for HER.",212,552,OpenAI
+Thu Feb 22 19:12:36 +0000 2018,"Releasing MADDPG, an algorithm for multi-agent reinforcement learning. 
+MADDPG: https://t.co/2jZCWfLY3o
+Multi-agent environments: https://t.co/P8cPDD7O5U
+Blog: https://t.co/HleUaa15fh",289,703,OpenAI
+Thu Feb 22 17:47:07 +0000 2018,"Join us Saturday, March 3rd, for talks and a hackathon at OpenAI's office in San Francisco: https://t.co/BjhRwT0MBm. RSVP link in the post!",64,234,OpenAI
+Wed Feb 21 04:01:54 +0000 2018,OpenAI Supporters: https://t.co/2IQa3iGjk2,555,3545,OpenAI
+Wed Feb 21 00:03:05 +0000 2018,"Preparing for Malicious Uses of AI: https://t.co/ebAwQVkwHR
+Policy research on forecasting, prevention, and mitigation of AI-borne threats.
+With authors at @FHIOxford, @CSERCambridge, @EFF, @CNASdc, and many others.",296,652,OpenAI
+Thu Feb 15 16:35:20 +0000 2018,"Interpretable Machine Learning through Teaching: https://t.co/7nrIbVWs2u
+— encouraging neural network-based agents to transfer concepts to each other via human-understandable examples. https://t.co/2l9G6G3whU",241,585,OpenAI
+Wed Feb 07 18:22:47 +0000 2018,Automatic disambiguation of which object is meant by a word in a sentence (by discovering a type system): https://t.co/NJ0bIljjNa,165,460,OpenAI
+Wed Jan 31 16:58:25 +0000 2018,"Announcing Requests for Research 2.0, a new set of unsolved problems which have come up in the course of our research at OpenAI: https://t.co/zvj0lApBaw. Intended for newcomers and practitioners alike!",330,815,OpenAI
+Thu Jan 18 17:10:57 +0000 2018,"Scaling Kubernetes to 2,500 nodes: https://t.co/KbravWt7fw",238,552,OpenAI
+Mon Jan 15 18:52:57 +0000 2018,"Releasing gradient checkpointing - a package for fitting bigger Tensorflow models onto your GPU. By trading off memory usage against a 20% increase in computation time, we’ve used this to train 10X larger models: https://t.co/MCbRWcr1bp",387,1161,OpenAI
+Thu Jan 11 17:00:00 +0000 2018,Want to help grow the OpenAI team? We're hiring a recruiting coordinator: https://t.co/bqQcn4CHk4. Passion about beneficial AI and attention to detail more important than experience.,103,323,OpenAI
+Wed Dec 06 17:03:02 +0000 2017,"Releasing GPU kernels to run neural networks with block-sparse weights orders of magnitude faster, making these architectures tractable: https://t.co/ff7iE85poL https://t.co/x5Gxy52bhf",287,711,OpenAI
+Wed Nov 29 17:00:03 +0000 2017,"OpenAI's goals, the impact of more compute, and artificial general intelligence with @gdb: https://t.co/B4ywDeU6LF",99,257,OpenAI
+Thu Nov 16 18:24:10 +0000 2017,"New baselines: 
+- PPO2, a GPU-optimized version of PPO: https://t.co/YO524251nr
+- ACER, a sample-efficient policy gradient algorithm: https://t.co/VRZbPmBHrl",118,343,OpenAI
+Wed Nov 15 19:35:03 +0000 2017,Are you a programmer who wants to get into deep learning? Apply to our Machine Learning Fellow role: https://t.co/15Oatnkw2t,250,818,OpenAI
+Thu Nov 09 18:12:59 +0000 2017,"Developing our Dota 2 system, with @gdb @sidorszymon @sama: https://t.co/VlVnwjvQ5z",162,460,OpenAI
+Fri Nov 03 19:53:30 +0000 2017,RT @vmcheung: Grateful to @WomenWhoCode for the #ApplaudHer award! https://t.co/jLbPP3qHuL,42,0,OpenAI
+Thu Oct 26 18:06:40 +0000 2017,RT @gdb: One of the authors is in high school still: https://t.co/8nLodUeEa4. We hire great talent regardless of background!,157,0,OpenAI
+Thu Oct 26 16:13:07 +0000 2017,Hierarchical reinforcement learning algorithm that learns high-level actions which can be reused across tasks: https://t.co/KLnw0eG8qe https://t.co/6YPxvfnc9C,419,985,OpenAI
+Thu Oct 19 16:06:27 +0000 2017,"Physical robots, with controllers trained in simulation, which react to unplanned changes during simple tasks: https://t.co/yClK7u0Xnr https://t.co/NDGSjUgdgQ",267,695,OpenAI
+Wed Oct 18 17:26:42 +0000 2017,Releasing https://t.co/P8cPDDpoXs -- code for the 2D particle environments from: https://t.co/HleUa9JtQH,126,344,OpenAI
+Wed Oct 18 16:12:33 +0000 2017,Building advanced AI and only then making it safe is like building the internet and later trying to make it secure: https://t.co/Zib5CWr257,1730,4797,OpenAI
+Wed Oct 11 19:37:07 +0000 2017,"Beating stronger opponents by adapting to their strategies, via meta-learning: https://t.co/hfqL73wYYw",428,2079,OpenAI
+Wed Oct 11 16:00:26 +0000 2017,"AIs which develop faking, tackling, blocking, kicking through self-play: https://t.co/Ml4AAqFa67",608,2203,OpenAI
+Fri Sep 29 16:05:24 +0000 2017,Deep linear networks can learn to perform nonlinear computation due to imprecision in floating point arithmetic: https://t.co/Tob33IxYVV,802,1697,OpenAI
+Thu Sep 14 16:17:16 +0000 2017,LOLA: Agents that learn by modeling other agents: https://t.co/U1Lt6OLpFM,407,936,OpenAI
+Fri Aug 18 16:58:30 +0000 2017,Releasing performance-tested OpenAI Baseline implementations of ACKTR and A2C: https://t.co/ow18FWi5m8:,141,346,OpenAI
+Wed Aug 16 16:04:01 +0000 2017,"Graph shows TrueSkill of our best bot over time, which is effectively a measure of win % — so team improved the bot exponentially over time.",42,185,OpenAI
+Wed Aug 16 15:44:01 +0000 2017,Self-play catapulted the performance of our Dota 2 system: https://t.co/HtLcA9rApF https://t.co/BUTHspPxX3,176,523,OpenAI
+Sat Aug 12 20:58:44 +0000 2017,Dota pro teams interested in trying the bot for training — email rafal@openai.com. We're curious to see if it's useful!,180,808,OpenAI
+Sat Aug 12 19:43:28 +0000 2017,RT @gdb: Our bot played under standard tournament rules — i.e. no AI-specific limitations on the rules. For example: https://t.co/xNabStSJkf,43,0,OpenAI
+Fri Aug 11 23:54:01 +0000 2017,Our Dota 2 AI is undefeated against the world's best solo players: https://t.co/cUvTbGW7ya,2209,5067,OpenAI
+Fri Aug 11 23:49:48 +0000 2017,Thanks @DendiBoss for testing out our AI!,40,326,OpenAI
+Fri Aug 11 23:19:15 +0000 2017,"If you’re at #icml2017 come to a viewing party for our AI at The International. Starting Now. Wharf 2, Hyatt Regency, 131 Sussex Street.",24,116,OpenAI
+Fri Aug 11 23:13:57 +0000 2017,"In a few minutes, watch our Dota 2 AI play live on main stage at The International: https://t.co/mjTTPTlPh5",802,2580,OpenAI
+Thu Aug 03 16:06:55 +0000 2017,Open-sourcing an interface for training AIs via small amounts of human feedback: https://t.co/vgc6cWlBZd https://t.co/1Ueh8e9CwC,335,758,OpenAI
+Thu Jul 27 16:04:06 +0000 2017,"Parameter noise, a simple technique for boosting the performance of an RL algorithm via improved exploration: https://t.co/55Q0HHrpWq https://t.co/zuJDtejyQw",187,497,OpenAI
+Thu Jul 20 16:10:30 +0000 2017,"Releasing PPO, a new class of reinforcement learning algorithms that excel at simulated robotics tasks: https://t.co/MsGrJDCfxK https://t.co/MC8rL3lB0c",477,991,OpenAI
+Mon Jul 17 16:06:17 +0000 2017,"A crafted image that fools an ML classifier even after being printed out, zoomed, and rotated: https://t.co/vrmVIsYn8A. https://t.co/RZKqCe6q8E",793,1349,OpenAI
+Wed Jun 28 17:21:25 +0000 2017,High-performance Python library for robotics simulation: https://t.co/WRmxWCinIx https://t.co/6WCNW282QD,351,772,OpenAI
+Tue Jun 13 15:19:00 +0000 2017,RT @DeepMindAI: New work on AI safety with @OpenAI describes an RL system that learns through human feedback https://t.co/bUa55t0RQU https:…,304,0,OpenAI
+Tue Jun 13 15:05:04 +0000 2017,Using human feedback rather than code to specify a task: https://t.co/3YzBUM9flo Safety collaboration with @DeepMindAI https://t.co/A1yuGdaeVt,645,1963,OpenAI
+Thu Jun 08 16:21:38 +0000 2017,Agents that learn to collaborate and compete: https://t.co/HleUa9JtQH,259,551,OpenAI
+Wed May 24 16:07:26 +0000 2017,"We're releasing OpenAI Baselines, reliable implementations of RL algorithms. Today: DQN &amp; 3 variants: https://t.co/Mw0gCIwv1Z",939,2228,OpenAI
+Tue May 16 16:12:42 +0000 2017,A robot which can be taught new skills by a human in VR: https://t.co/1SqnhWxGwE,506,757,OpenAI
+Mon May 15 23:34:10 +0000 2017,"Roboschool, open-source software for simulating robots, integrated with OpenAI Gym: https://t.co/FNPLqbb7vA.",809,2085,OpenAI
+Thu Apr 06 16:19:39 +0000 2017,The model can also generate text with desired sentiment. For example: https://t.co/3TQih3g5zD,160,377,OpenAI
+Thu Apr 06 16:03:01 +0000 2017,A neural network teaches itself to analyze sentiment after only being trained to predict the next character: https://t.co/hrITHKHM24,1711,3405,OpenAI
+Sat Apr 01 16:32:49 +0000 2017,Next up: real-world phishing and adversarial Spam. https://t.co/lTSRkdbT1v,143,382,OpenAI
+Sat Apr 01 16:09:17 +0000 2017,We've created the world's first Spam-detecting AI trained entirely in simulation and deployed on a physical robot: https://t.co/QdOvEMyFQh,950,2755,OpenAI
+Fri Mar 24 16:38:47 +0000 2017,New research release: overcoming many of Reinforcement Learning's limitations with Evolution Strategies: https://t.co/fVIStOFdoU,1035,2357,OpenAI
+Mon Mar 20 17:03:08 +0000 2017,Distill: https://t.co/1Imiw4G4Cg,92,193,OpenAI
+Thu Mar 16 16:34:31 +0000 2017,Learning to communicate: https://t.co/1oNJ90GWhI,229,490,OpenAI
+Thu Feb 16 17:59:59 +0000 2017,Attacking machine learning with adversarial examples: https://t.co/DEdoRHhwxu,244,547,OpenAI
+Mon Jan 30 17:18:50 +0000 2017,Welcome to our newest team members: https://t.co/ZJW1FsRaxD,62,247,OpenAI
+Fri Jan 27 11:00:02 +0000 2017,We're joining @PartnershipAI as an Independent Trustee: https://t.co/SwmbwBQcp1,59,169,OpenAI
+Fri Jan 13 17:26:34 +0000 2017,RT @gdb: Defining the CTO role at @OpenAI: https://t.co/6t5yvK83Pu,137,0,OpenAI
+Wed Jan 11 17:20:08 +0000 2017,GTA V + Universe: https://t.co/2bpZ6QNv4R,359,628,OpenAI
+Wed Dec 21 17:42:56 +0000 2016,Faulty Reward Functions in the Wild: https://t.co/gab0Xb1Fmz,106,210,OpenAI
+Tue Dec 06 06:02:24 +0000 2016,Keep track of OpenAI talks and posters at #nips2016 here: https://t.co/nN611VP34R,62,164,OpenAI
+Mon Dec 05 19:26:52 +0000 2016,RT @Newgrounds: We've partnered with OpenAI so their AI can play your web games. Devs need to check a box to participate. More info: https:…,59,0,OpenAI
+Mon Dec 05 18:37:58 +0000 2016,A video tutorial and overview of Universe from @sirajology: https://t.co/9JyfF5aFrl,424,1273,OpenAI
+Mon Dec 05 07:45:14 +0000 2016,"RT @WIRED: If Universe works, computers will use video games to learn how to function in the physical world. https://t.co/YizudzC5TL",297,0,OpenAI
+Mon Dec 05 06:33:41 +0000 2016,"We're releasing Universe, a platform for measuring and training AI agents: https://t.co/bx7OjMDaJK",1773,3108,OpenAI
+Fri Dec 02 17:50:47 +0000 2016,"Watch @gdb, @erichorvitz, @awmcmu, and Dr Chien testify at the Senate's hearing on ""The Dawn of AI"" here: https://t.co/hLRgn7N0X3 """,49,103,OpenAI
+Wed Nov 30 18:22:11 +0000 2016,"OpenAI co-founder @gdb will be testifying today at the Senate hearing ""The Dawn of Artificial Intelligence"": https://t.co/G2UNvdHQGd",164,258,OpenAI
+Tue Nov 15 14:05:45 +0000 2016,OpenAI and Microsoft: https://t.co/yVTvLBIkoZ,138,262,OpenAI
+Thu Oct 13 15:43:58 +0000 2016,Overview of last week's Self Organizing Conference: https://t.co/FBpCbiIedD #socml. Thanks everyone who attended!,63,134,OpenAI
+Wed Sep 28 21:23:48 +0000 2016,We're looking forward to non-profits being included as first-class members in the future.,48,174,OpenAI
+Wed Sep 28 21:22:58 +0000 2016,We're happy to see the launch of Partnership on AI — coordination in the industry is good for everyone. https://t.co/Cg1rvGvN7L,134,284,OpenAI
+Tue Aug 30 16:16:17 +0000 2016,"How we've built our deep learning infrastructure, plus an open-source release: https://t.co/uLo6FitC66",769,1682,OpenAI
+Thu Aug 18 17:06:11 +0000 2016,Machine Learning Unconference: https://t.co/LVP1yNYrfL,127,241,OpenAI
+Tue Aug 16 16:22:08 +0000 2016,Thrilled to welcome our newest team members: https://t.co/5HfaCFxJ6b!,165,713,OpenAI
+Mon Aug 15 23:31:29 +0000 2016,Our mission to build safe AI requires broad support from others. Thanks @nvidia for the world's first DGX-1! https://t.co/f43bAQMHCJ,196,422,OpenAI
+Thu Jul 28 17:47:57 +0000 2016,We're looking for machine learning experts interested in leading some important new projects: https://t.co/aGb0wCRs8P.,153,260,OpenAI
+Thu Jun 23 18:59:55 +0000 2016,"Reminder for those at ICML: we're hosting an OpenAI meetup tonight, 7-10p at District M (700 8th Avenue). See you then!",24,60,OpenAI
+Wed Jun 22 00:28:46 +0000 2016,Concrete AI safety problems: https://t.co/G1rOUIaVSF,126,203,OpenAI
+Mon Jun 20 15:59:42 +0000 2016,Our technical goals: https://t.co/XUpnd2QMkM,126,199,OpenAI
+Mon Jun 20 14:10:33 +0000 2016,Attending ICML? Come to our OpenAI meetup this Thursday from 7-10p at District M (700 8th Avenue).,34,78,OpenAI
+Thu Jun 16 17:38:15 +0000 2016,Our first research results are now live: https://t.co/YrZtcGhIQT!,302,501,OpenAI
+Wed Jun 08 17:04:24 +0000 2016,"Intended for newcomers to the field, and practitioners looking to make a novel contribution. Contributions welcome: https://t.co/Y5mF9dgeur.",63,154,OpenAI
+Wed Jun 08 16:59:16 +0000 2016,"We’ve just released OpenAI Requests for Research, a living collection of deep learning research problems. https://t.co/zryaeiKfHK",267,398,OpenAI
+Wed May 25 17:19:57 +0000 2016,We have some fantastic new team members: https://t.co/vvpHyzz9nE. Welcome!,146,660,OpenAI
+Mon May 16 17:45:06 +0000 2016,Build a Game AI with OpenAI Gym: https://t.co/o34DCB6prX.,78,163,OpenAI
+Thu May 12 22:16:52 +0000 2016,RT @gdb: Ask questions for my Quora Session next week (10a PT on Wed): https://t.co/jXBpMAgma3. Particularly excited to talk about @open_ai!,35,0,OpenAI
+Tue May 03 15:41:57 +0000 2016,RT @gdb: My path to OpenAI: https://t.co/F0Vmh029Hg.,127,0,OpenAI
+Mon May 02 16:24:13 +0000 2016,Around ICLR? We'll be hosting a meetup tonight from 6p-9p at Palmeras at the Caribe Hilton. See you there!,9,34,OpenAI
+Fri Apr 29 17:58:58 +0000 2016,@Rapchik Thanks for the support!,1,3,OpenAI
+Wed Apr 27 17:07:52 +0000 2016,"Our reinforcement learning toolkit, OpenAI Gym, is now in public beta: https://t.co/8fMRLjSJQb.",631,1159,OpenAI
+Tue Apr 26 13:29:47 +0000 2016,We have another team update: https://t.co/DjPCC9IITw. Welcome @pabbeel and @shivon!,36,83,OpenAI
+Mon Apr 18 17:54:49 +0000 2016,RT @gdb: Into reinforcement learning and like beta testing? Looking for beta testers for an upcoming software release. Ping me: gdb@openai.…,27,0,OpenAI
+Thu Mar 31 17:15:26 +0000 2016,"The OpenAI team is growing: https://t.co/xFrpYSBhGR. Welcome, everyone!",60,156,OpenAI
+Fri Mar 18 06:04:52 +0000 2016,@mcpodgy007 Sure! Please have him email them to matt@ycombinator.com.,0,2,OpenAI
+Tue Mar 15 00:27:58 +0000 2016,@JustinEggar Thanks :),1,0,OpenAI
+Tue Mar 15 00:27:26 +0000 2016,@watcherman007 That's not our website -- ours is https://t.co/OcO6MLUqR9!,1,2,OpenAI
+Mon Mar 14 01:10:13 +0000 2016,RT @sama: Move-in day to new @open_ai office! https://t.co/Lr06SEXqeL,43,0,OpenAI
+Mon Mar 14 01:10:08 +0000 2016,@shugless Feel free to apply at https://t.co/td3p2r7Yas if you think you could be a good fit!,4,5,OpenAI
+Tue Mar 08 07:08:25 +0000 2016,"@akapatashungu Hey Alain, very cool. We're heads-down focused right now so it's not a great time. Keep it up though--more AI work is good!",0,1,OpenAI
+Sat Mar 05 18:35:05 +0000 2016,"@Jackiealvidrez Yes, but we're not involved with him / the prize!",0,0,OpenAI
+Wed Feb 24 01:24:36 +0000 2016,@Raymonjohnstone Things are going well! We're heads-down focused on work. Here's an AMA we did from ~1 month ago: https://t.co/2xTk26odrG,3,6,OpenAI
+Sat Feb 13 01:09:48 +0000 2016,@aybuketurker Hey Aybuke -- check out a Reddit AMA we recently did for some more info: https://t.co/k3XEHSN1fE,0,3,OpenAI
+Sat Feb 13 01:09:41 +0000 2016,@norabean Hey Naureen -- check out a Reddit AMA we recently did for some more info: https://t.co/k3XEHSN1fE,1,3,OpenAI
+Mon Feb 08 22:50:07 +0000 2016,@StuartCalimport Hi Stuart -- we will follow-up in a direct message.,0,1,OpenAI
+Sat Jan 09 18:48:58 +0000 2016,"@jamie247 No timeline right now, but we certainly still plan for open-source projects to appear as time goes on.",2,7,OpenAI
+Sat Jan 09 08:04:31 +0000 2016,@that_cannon_guy You can apply for an internship at https://t.co/td3p2r7Yas !,3,8,OpenAI
+Thu Jan 07 02:43:32 +0000 2016,"@tasseophile Thanks for the idea. Pretty heads down right now, but might be an interesting thing to do later on.",1,1,OpenAI
+Tue Dec 29 19:28:01 +0000 2015,"@MaxBook59 Nope, no public git repo. At this point we don't have volunteer opportunities, but we'll update here if that changes!",0,3,OpenAI
+Thu Dec 24 19:50:08 +0000 2015,@globalnewyorker Thanks for the support :),1,4,OpenAI
+Wed Dec 23 08:29:12 +0000 2015,"@Wolven I'm sorry Damien, we're very swamped and trying to get back to work :(  
+Thanks for caring though -- we'll give updates on Twitter.",1,2,OpenAI
+Mon Dec 21 05:47:38 +0000 2015,@Unchaintheworld Human!,2,4,OpenAI
+Mon Dec 21 05:45:43 +0000 2015,"@tkgss We're focused on software for now, though that could certainly evolve!",2,4,OpenAI
+Sat Dec 19 01:32:34 +0000 2015,@DestaBlues We love you too :),0,1,OpenAI
+Sat Dec 19 01:31:05 +0000 2015,@Sshuicchi Thanks for the offer! We don't have volunteer positions right now though. We'll post updates on Twitter if we do in the future.,0,4,OpenAI
+Fri Dec 18 03:59:55 +0000 2015,@bwcampbell22 You can always teach yourself! Here are great resources on deep learning-- https://t.co/asMyLz0ePJ and https://t.co/tUrORoB3VY,19,60,OpenAI
+Fri Dec 18 03:58:59 +0000 2015,"@d34th4k3r Hey Gautam-- no volunteer roles right now, but here are good learning resources-- https://t.co/asMyLz0ePJ https://t.co/tUrORoB3VY",2,11,OpenAI
+Fri Dec 18 01:32:25 +0000 2015,"@bwcampbell22 Keep an eye out, Brett. It's not for sure, but in the coming months and years, we may have non-technical opportunities.",0,3,OpenAI
+Fri Dec 18 01:31:36 +0000 2015,@michaelcrow Thank you!!,0,2,OpenAI
+Thu Dec 17 17:19:28 +0000 2015,@dpetersson Thank you for the support!,0,1,OpenAI
+Thu Dec 17 17:19:09 +0000 2015,"@drck007 Thanks! Our focus is AI in of itself, but certainly if we're able to make progress, it could be applied by others to healthcare.",2,2,OpenAI
+Thu Dec 17 05:28:24 +0000 2015,"@Sharon_Helzer Thanks, Sharon! Please feel free to apply for a job at https://t.co/td3p2r7Yas if you're interested.",1,1,OpenAI
+Wed Dec 16 17:05:12 +0000 2015,@Melisande_M Thanks Melisande!,0,1,OpenAI
+Wed Dec 16 17:00:42 +0000 2015,"@joseverasteguit Thank you, Jose!",0,1,OpenAI
+Wed Dec 16 17:00:30 +0000 2015,@josenirmal It won't be limited to a single language; we'll use whatever tools we think are good fits for specific problems.,1,1,OpenAI
+Wed Dec 16 16:59:28 +0000 2015,"@marvinleetang Hey Marvin -- we have very limited job openings right now, but feel free to apply at https://t.co/td3p2r7Yas",0,2,OpenAI
+Wed Dec 16 16:57:53 +0000 2015,"@AnnalisaViola4 Thanks for supporting us, Annalisa!",0,1,OpenAI
+Wed Dec 16 08:53:13 +0000 2015,@AminDorost Thank you so much!,0,0,OpenAI
+Wed Dec 16 08:53:04 +0000 2015,@SandyBiar It's still a human job for now :),1,0,OpenAI
+Wed Dec 16 07:15:03 +0000 2015,"@ReformDesigns Hey Ryan! We don't have any plans for operating outside of the Bay Area, at least for now.",0,2,OpenAI
+Wed Dec 16 01:27:56 +0000 2015,"@3DArnold Thanks Arnoldas! We're pretty focused with just our small team for now, but we appreciate the support and the offer.",0,0,OpenAI
+Tue Dec 15 20:45:15 +0000 2015,@AmarnathRevanna Hey Amarnath -- we don't have details to share right now. The plan is just to put our heads down and get to work!,1,0,OpenAI
+Tue Dec 15 20:43:57 +0000 2015,"@AndrewLannan It's not made by us, but you should check out the Chrome extension Force Block :)  https://t.co/HFIhGEnGgO",2,5,OpenAI
+Tue Dec 15 17:33:39 +0000 2015,@_Adun_ Thanks for the support!,0,0,OpenAI
+Tue Dec 15 17:33:13 +0000 2015,@eloop001 Thank you!!,0,0,OpenAI
+Tue Dec 15 17:32:55 +0000 2015,"@Innorobo I'm sorry, we're very swamped right now post-launch, and we're trying to keep our heads down and work for the reasonable future :(",0,1,OpenAI
+Tue Dec 15 17:29:25 +0000 2015,@ppilaniwala Thanks for the support!,0,0,OpenAI
+Tue Dec 15 05:56:24 +0000 2015,@VisceralBiz Thanks for your support :),0,1,OpenAI
+Tue Dec 15 05:56:11 +0000 2015,@Annemcx Thanks for the support!,0,2,OpenAI
+Tue Dec 15 05:56:05 +0000 2015,@AXsemantics thanks for the support!,1,2,OpenAI
+Tue Dec 15 05:55:45 +0000 2015,@zappadweez thank you!,0,0,OpenAI
+Tue Dec 15 05:54:16 +0000 2015,@Coolsultant Too early to say what AGI (artificial general intelligence) might look like,2,4,OpenAI
+Tue Dec 15 05:53:12 +0000 2015,@Alexandre_Glas 'the days are long but the decades are short' :),1,3,OpenAI
+Tue Dec 15 05:44:32 +0000 2015,@mikehadlow So we can make surea situation like Skynet never happens,1,4,OpenAI
+Tue Dec 15 05:44:17 +0000 2015,"@AWeinschnoff Quite likely, yes! Pay attention to Twitter / check our website every once in awhile for updates.",0,2,OpenAI
+Tue Dec 15 05:42:53 +0000 2015,"@psygnisfive Without going into detail, yes :)",1,1,OpenAI
+Tue Dec 15 05:42:35 +0000 2015,"@asklegalmart Thanks! no volunteer opportunities right now, but please spread the word!",0,3,OpenAI
+Tue Dec 15 05:42:08 +0000 2015,@Arvind_Noddy You should apply! https://t.co/kR7poy0o0O,0,2,OpenAI
+Tue Dec 15 05:41:35 +0000 2015,@StevanPopo thanks for the support!,0,1,OpenAI
+Tue Dec 15 05:40:56 +0000 2015,@recrdx one day ;P,0,0,OpenAI
+Tue Dec 15 05:40:11 +0000 2015,@Saurabh_kakran Thanks for learning :),0,0,OpenAI
+Tue Dec 15 05:38:53 +0000 2015,"@SignalNLabs It's something we certainly think about, and are optimistic continuing progress.",2,3,OpenAI
+Tue Dec 15 05:37:16 +0000 2015,@EdyDawson open discussion and ideas help!,1,1,OpenAI
+Tue Dec 15 05:36:58 +0000 2015,"@NicMilligan It's very far off, but it won't be a callous undertaking. As we make progress, we will address this more concretely.",0,0,OpenAI
+Tue Dec 15 05:34:39 +0000 2015,@rdkingdon It is indeed! Thanks for supporting us.,0,1,OpenAI
+Tue Dec 15 05:29:22 +0000 2015,"@jhwmns Don't know about an anthropomorphic figure, but we hope we create a force of good!",2,2,OpenAI
+Tue Dec 15 05:24:23 +0000 2015,@kiwiconnectnz Thank you!!!,0,0,OpenAI
+Tue Dec 15 05:23:52 +0000 2015,@erickvaz0617 https://t.co/asMyLz0ePJ and https://t.co/tUrORoB3VY,6,6,OpenAI
+Tue Dec 15 05:23:49 +0000 2015,@erickvaz0617 Get deeply familiar with the leading edge of research and applications. Good resources if you need a place to start:,0,2,OpenAI
+Tue Dec 15 05:21:14 +0000 2015,@mikisetlur glad to hear!,0,1,OpenAI
+Tue Dec 15 05:21:01 +0000 2015,@dDistenfield We're excited too :),1,1,OpenAI
+Tue Dec 15 05:20:52 +0000 2015,@nextgenjustice Thank you!!,1,1,OpenAI
+Tue Dec 15 05:20:42 +0000 2015,@TheBunkerJAX Thanks!!,1,1,OpenAI
+Tue Dec 15 05:20:30 +0000 2015,"@StephenFoung No non-technical positions right now unfortunately, paid or volunteer. Best way is to spread the word!",0,1,OpenAI
+Tue Dec 15 05:19:30 +0000 2015,@kiwiconnectnz Thanks for the support!!,0,0,OpenAI
+Tue Dec 15 05:19:19 +0000 2015,@bored_robots you will never take over ;D !,0,1,OpenAI
+Tue Dec 15 05:17:40 +0000 2015,"@XanderJung2 Aware, but no connection.",1,0,OpenAI
+Tue Dec 15 05:16:37 +0000 2015,@Ftv_Fractal gracias por su apoyo!,0,0,OpenAI
+Tue Dec 15 05:14:42 +0000 2015,"@gokulganpath Thanks! If you're a researcher, check out https://t.co/kR7poy0o0O -- if not, just spread the word :)",2,0,OpenAI
+Tue Dec 15 05:12:56 +0000 2015,"@byrontoddyoung interesting, thanks",0,0,OpenAI
+Tue Dec 15 05:12:33 +0000 2015,"@adros47 Yup, the blog is very basic right now :/ Maybe in the future tho!",0,2,OpenAI
+Tue Dec 15 05:12:10 +0000 2015,@_brohrer_ thanks for the support :) !!,0,1,OpenAI
+Tue Dec 15 05:11:53 +0000 2015,@LAAF thanks for the support Laura :),0,0,OpenAI
+Tue Dec 15 05:10:37 +0000 2015,@billiepate You should work on it!,0,2,OpenAI
+Tue Dec 15 05:10:21 +0000 2015,@QueenOfDataTech Thanks for the support :),0,1,OpenAI
+Tue Dec 15 05:03:58 +0000 2015,@eClubAU we certainly hope so!,1,1,OpenAI
+Tue Dec 15 05:03:41 +0000 2015,@tisanat Thanks for the support :),0,0,OpenAI
+Tue Dec 15 05:02:26 +0000 2015,@not_replica Pretty swamped right now with the launch unfortunately :( I'm sure at some point we'll do an AMA of sorts.,0,0,OpenAI
+Tue Dec 15 03:51:58 +0000 2015,@santoshsankar thank you!,0,0,OpenAI
+Tue Dec 15 03:49:42 +0000 2015,"@yogendra_tamang Very early days, but we will update on major things in the future!",2,0,OpenAI
+Tue Dec 15 03:48:00 +0000 2015,"@bortovic slack, email, in-person!",0,0,OpenAI
+Mon Dec 14 05:46:31 +0000 2015,"@NicolasChapados No, that's a separate project (though we're in contact with them).",1,2,OpenAI
+Mon Dec 14 05:45:05 +0000 2015,"@RandomSDYU No particular plans along those lines, but our work is open-ended and it's hard to know where we'll end up.",0,1,OpenAI
+Mon Dec 14 05:44:33 +0000 2015,@DL_Orton Thanks! Today we're just hiring researchers &amp; engineers. But that may change in the future!,0,2,OpenAI
+Mon Dec 14 05:41:15 +0000 2015,"@rhyolight Yep, we'll produce lots of open-source code as we go.",1,6,OpenAI
+Mon Dec 14 05:35:57 +0000 2015,@suroorwijdan Thanks! We expect open-source projects to appear as time goes on. Stay tuned :).,2,4,OpenAI
+Mon Dec 14 05:34:50 +0000 2015,@stefan_h_farr Thanks! Appreciate it.,0,1,OpenAI
+Mon Dec 14 05:30:07 +0000 2015,"@bortovic Nope, we have a Twitter feed though — the next best thing :)!",0,3,OpenAI
+Mon Dec 14 05:29:22 +0000 2015,"@zara_yaqoob We're working on different flavors of research today, though the end goals are quite aligned!",1,3,OpenAI
+Mon Dec 14 05:26:11 +0000 2015,@vinay2381 I think it's great the degree to which everyone is opening up. The more we all collaborate the better for everyone!,2,0,OpenAI
+Mon Dec 14 05:24:12 +0000 2015,@jazzabeanie We're not taking further donations just yet! But we'll post on Twitter if that ever changes.,0,2,OpenAI
+Mon Dec 14 05:21:49 +0000 2015,"@patriklermon Yep, we'll switch to real blogging software in the near future. Today it's very simple tech — two hand-coded HTML pages :).",0,2,OpenAI
+Mon Dec 14 05:06:32 +0000 2015,"@coopsource We expect to collaborate with a wide variety of individuals and groups, but no specifics to share yet.",0,2,OpenAI
+Mon Dec 14 05:04:07 +0000 2015,@micahpedia Interesting suggestion! Today we're just looking for researchers and engineers though :(.,0,1,OpenAI
+Sun Dec 13 20:40:37 +0000 2015,"@siddharthm83 Yep, agreed data is key. We'll have access to datasets at a variety of companies, such as many YC companies.",2,2,OpenAI
+Sun Dec 13 06:01:36 +0000 2015,"@AmarnathRevanna Thanks! It's research, so pretty open-ended. We're really just getting started, and will have more to share later!",2,6,OpenAI
+Sun Dec 13 05:59:07 +0000 2015,"@fj2c We actually own the .org and considered using it. In the end, we didn't feel it made enough of a difference, so defaulted to .com.",1,4,OpenAI
+Sun Dec 13 05:55:38 +0000 2015,"@shannonNullCode Yep, standard benchmarks are very valuable in this field. Fortunately for many problems benchmarks already exist!",1,1,OpenAI
+Sun Dec 13 05:53:44 +0000 2015,"@dare2deviate We are indeed heads down, but expect that we'll end up producing open-source projects as part of the research.",1,2,OpenAI
+Sun Dec 13 05:52:54 +0000 2015,@WalkerofTime Thanks! We'll be tweeting about opportunities as they arise.,0,4,OpenAI
+Sun Dec 13 05:50:52 +0000 2015,"@LeeAckerson No plans for hardware today, but we'll go where the research takes us.",2,2,OpenAI
+Sun Dec 13 05:50:21 +0000 2015,"@heckj Nope, no relation to that (seemingly defunct) project.",0,2,OpenAI
+Sun Dec 13 05:46:53 +0000 2015,"@WayneNH Nothing planned right now, but we'll update Twitter if we visit!",0,2,OpenAI
+Sun Dec 13 05:45:49 +0000 2015,@TheShubhanshu We are (though there are a very limited number of positions)! Details here: https://t.co/cqFgalQYsa.,5,3,OpenAI
+Sun Dec 13 05:44:52 +0000 2015,"@bmmetzger11 So stay tuned, and we'll let people know if things change. Thanks for the interest!",0,3,OpenAI
+Sun Dec 13 05:44:11 +0000 2015,@bmmetzger11 Today we're focused on advancing the capabilities of ML algorithms. But we'll go where the research takes us.,1,2,OpenAI
+Sun Dec 13 05:40:44 +0000 2015,@ImKayj It was just an informal gathering. Nothing to stream :(!,0,2,OpenAI
+Sun Dec 13 05:37:57 +0000 2015,@gmNBA It was just an informal gathering — nothing to record but people mingling :(.,0,2,OpenAI
+Sun Dec 13 05:34:46 +0000 2015,@auvipy San Francisco!,0,2,OpenAI
+Sun Dec 13 05:34:30 +0000 2015,@abcsds Coming for sure!,0,2,OpenAI
+Sun Dec 13 01:03:57 +0000 2015,"We're having so much fun, we're extending our meetup to 10PM. Hope to see you there! #NIPS2015",11,58,OpenAI
+Sat Dec 12 15:57:39 +0000 2015,"@saplancer Thanks! For now, we’re keeping the team small, and prefer to maximize serendipitous interactions by having everyone in one place.",0,10,OpenAI
+Sat Dec 12 15:56:01 +0000 2015,"@bguezzie It’s great! We’re just getting started, but will probably primarily be using Python.",4,11,OpenAI
+Sat Dec 12 15:54:41 +0000 2015,@shannonnullcode We invite people to apply here: https://t.co/cqFgam8zjI!,5,14,OpenAI
+Sat Dec 12 15:53:03 +0000 2015,@afshaanmir123 Welcome. It’s a team effort!,0,2,OpenAI
+Sat Dec 12 15:52:15 +0000 2015,@levibailey4 Thanks for the offer :). Will let you know if anything comes along we need help with!,0,4,OpenAI
+Sat Dec 12 15:50:39 +0000 2015,@alekkhan We’ll create open-source projects over time. We’ll keep Twitter updated. Stay tuned!,3,5,OpenAI
+Sat Dec 12 15:48:30 +0000 2015,"@icyeyeg Yep, we’ll switch to real blog software at some point. Today it’s just the simplest technology possible — two static HTML pages.",0,6,OpenAI
+Sat Dec 12 15:45:26 +0000 2015,@tiagojdferreira We’ll likely be working with a lot of Python/TensorFlow.,2,5,OpenAI
+Sat Dec 12 15:45:00 +0000 2015,@phrixious We are hiring a limited number of interns: https://t.co/cqFgam8zjI!,2,6,OpenAI
+Sat Dec 12 15:37:28 +0000 2015,@vishalrohra293 We will have a limited number of internships: https://t.co/cqFgam8zjI!,1,2,OpenAI
+Sat Dec 12 14:49:24 +0000 2015,@classyimp That’s a great read!,0,2,OpenAI
+Sat Dec 12 05:50:37 +0000 2015,@zafarali We’re in SF! Application information here: https://t.co/cqFgam8zjI.,5,17,OpenAI
+Sat Dec 12 05:49:47 +0000 2015,@thornsandspells I recognize it. It seems very hard. Fortunately we’ll be working on much more mundane deep learning research for now.,0,7,OpenAI
+Sat Dec 12 05:43:49 +0000 2015,"@see3ya https://t.co/J8U5EmSsZx is good, but it’s not *that* good :).",4,15,OpenAI
+Sat Dec 12 05:43:19 +0000 2015,@g0rnl We’ll have open-source projects in the future! Two books I like: https://t.co/tUrORojsxo and https://t.co/BFvjcQKd70.,24,84,OpenAI
+Sat Dec 12 05:29:55 +0000 2015,@sbyrnes There are many ML projects out there which we really respect! But we hope to add to the ecosystem :).,1,7,OpenAI
+Sat Dec 12 05:23:46 +0000 2015,"@ericbattenberg Well, keep in mind this is just the beginning of a very long journey. The true challenge is doing great research.",1,12,OpenAI
+Sat Dec 12 05:22:48 +0000 2015,@alisinna We’ll be based in SF. We may visit NYC from time to time; stay tuned!,1,7,OpenAI
+Sat Dec 12 05:22:23 +0000 2015,@amarsapps We’ll be creating open-source projects over time; stay tuned!,1,5,OpenAI
+Sat Dec 12 05:17:03 +0000 2015,@erikzarazua There are! We’re hiring slowly and deliberately: https://t.co/cqFgam8zjI.,3,7,OpenAI
+Sat Dec 12 05:16:02 +0000 2015,"@mreg39 Sorry, just a human :(. Could potentially try using https://t.co/J8U5EmSsZx though.",2,7,OpenAI
+Sat Dec 12 05:13:49 +0000 2015,@thai_talk *waves*,0,6,OpenAI
+Sat Dec 12 05:12:50 +0000 2015,"@mreg39 Thanks, glad it resonates :).",2,3,OpenAI
+Sat Dec 12 05:12:25 +0000 2015,@inachu We’re focused on long-term research right now!,1,4,OpenAI
+Sat Dec 12 05:11:16 +0000 2015,@akash0x53 I certainly would like to think so.,1,4,OpenAI
+Sat Dec 12 05:06:47 +0000 2015,"@maraoz We’re just getting started, but I sense open-source projects in our near future.",1,6,OpenAI
+Sat Dec 12 05:05:28 +0000 2015,@entilzhapr We are! Same instructions for full-time and internships: https://t.co/cqFgam8zjI.,0,7,OpenAI
+Sat Dec 12 05:04:47 +0000 2015,"@mindofwarren Thanks! No specific plans today, but we’re keeping our options open.",1,5,OpenAI
+Sat Dec 12 05:00:02 +0000 2015,@iolooo Probably mostly of Python/TensorFlow. But we’re pretty tool-egalatarian.,1,9,OpenAI
+Sat Dec 12 04:58:32 +0000 2015,@cpburgess_ Thanks. We’ll be in San Francisco!,2,6,OpenAI
+Sat Dec 12 04:58:12 +0000 2015,@ionthrust I am a human being :).,2,6,OpenAI
+Sat Dec 12 04:57:29 +0000 2015,@tahalil106 Thanks :). We’ve taken but one step on a very long path.,0,5,OpenAI
+Sat Dec 12 04:56:50 +0000 2015,@al_kabalan Details are here: https://t.co/cqFgam8zjI!,1,3,OpenAI
+Sat Dec 12 04:52:18 +0000 2015,"@jaredharrill Thanks! We’re taking inspiration from a bunch of different models, though I hadn’t heard of OVNs in particular before.",2,4,OpenAI
+Sat Dec 12 04:48:43 +0000 2015,@snagglechud 68 65 6c 6c 6f 20 79 6f 75 72 73 65 6c 66 20 3a 29,0,5,OpenAI
+Sat Dec 12 04:46:01 +0000 2015,@cholericcleric Thanks for the vote of confidence. Ultimately we hope our research will speak for itself.,2,5,OpenAI
+Sat Dec 12 04:44:16 +0000 2015,"@neurealai Indeed, that’s the beauty of open source! We’re just getting started, but stay tuned.",3,5,OpenAI
+Sat Dec 12 04:39:32 +0000 2015,@ritwik_g Thanks for reaching out. We’ll end up with many open-source projects over time — stay tuned!,1,6,OpenAI
+Sat Dec 12 04:38:03 +0000 2015,"@agarciaramirez Thanks! Our primary focus is research, and we'll be open-sourcing projects over time — stay tuned!",1,4,OpenAI
+Sat Dec 12 04:36:48 +0000 2015,"@jacobliebenow Thanks! Our primary focus is research, and we'll be open-sourcing projects over time — stay tuned!",0,4,OpenAI
+Sat Dec 12 04:35:42 +0000 2015,"@harrygogonis Our primary focus is research, and we'll be open-sourcing projects over time — stay tuned!",0,5,OpenAI
+Sat Dec 12 04:34:04 +0000 2015,"@coetry Thanks! It’s too early to say, but in the meanwhile, two textbooks I like: https://t.co/BFvjcQKd70 and https://t.co/tUrORojsxo.",5,28,OpenAI
+Sat Dec 12 04:30:40 +0000 2015,@johnnysanch17 Thanks for the support! (Now for the important part: doing the research.),0,4,OpenAI
+Sat Dec 12 04:23:20 +0000 2015,@hinothedino Ditto :).,0,4,OpenAI
+Sat Dec 12 04:16:42 +0000 2015,@trvanes *waves*,0,3,OpenAI
+Sat Dec 12 04:14:46 +0000 2015,"@csumners7 We’ll have open-source projects, yep. The details are at the discretion of the researchers!",2,5,OpenAI
+Sat Dec 12 04:13:50 +0000 2015,@mbeissinger Thanks!,0,3,OpenAI
+Sat Dec 12 04:13:42 +0000 2015,@coconutatomizer Thanks for the warm welcome :).,0,2,OpenAI
+Sat Dec 12 04:09:41 +0000 2015,@algomancer https://t.co/cqFgam8zjI. Looking forward to hearing from you!,2,5,OpenAI
+Sat Dec 12 03:35:55 +0000 2015,"@lefterisjp Thanks — ditto, looking forward to starting the truly important bit, which is the research :).",0,5,OpenAI
+Sat Dec 12 03:32:38 +0000 2015,@leslieasheppard Thanks! No congratulations deserved yet — the true hard work of doing research starts now.,0,4,OpenAI
+Sat Dec 12 03:31:34 +0000 2015,@devesh_batra Thanks for the warm welcome :).,0,3,OpenAI
+Sat Dec 12 03:30:34 +0000 2015,@priyadarshan Much appreciated!,0,4,OpenAI
+Sat Dec 12 03:30:24 +0000 2015,@maroonedonearth *waves*,1,5,OpenAI
+Sat Dec 12 03:29:48 +0000 2015,@farrownick We’ll be https://t.co/MpGg2Ip59Y (though not much to see there right now).,4,8,OpenAI
+Sat Dec 12 03:29:04 +0000 2015,@marcocastro27 Thanks! We’re focused on the long-term. Stay tuned!,1,5,OpenAI
+Sat Dec 12 03:28:29 +0000 2015,@slh Thanks! I'm pretty pumped too.,0,5,OpenAI
+Sat Dec 12 03:24:49 +0000 2015,@ttkeil Stay tuned!,0,4,OpenAI
+Sat Dec 12 01:41:18 +0000 2015,"Around #NIPS2015? Join us at gaZette in the Westin on Saturday, 7-9PM.",20,74,OpenAI
+Sat Dec 12 01:25:40 +0000 2015,@justboxit I’m sure that can be arranged!,0,5,OpenAI
+Sat Dec 12 01:20:36 +0000 2015,@mpratland We’re in SF!,1,7,OpenAI
+Sat Dec 12 01:20:25 +0000 2015,@jessicamalini Right there with you!,1,8,OpenAI
+Sat Dec 12 01:20:13 +0000 2015,@htadbtaylor Thanks!,0,4,OpenAI
+Sat Dec 12 01:19:46 +0000 2015,@ruskenberry Hello back!,0,4,OpenAI
+Sat Dec 12 00:10:09 +0000 2015,@lukede0 Thanks!! We’re pretty excited.,0,4,OpenAI
+Sat Dec 12 00:08:09 +0000 2015,"@farrownick We’re just getting started, and are focused on the long term. Stay tuned.",0,5,OpenAI
+Sat Dec 12 00:07:19 +0000 2015,@mlevkov Thanks! We’re pretty excited about that too :).,0,5,OpenAI
+Sat Dec 12 00:07:01 +0000 2015,"@lzamparo Yep, the initial team is working with us full-time (Sam and Elon are keeping their other jobs though).",1,6,OpenAI
+Sat Dec 12 00:05:03 +0000 2015,"@be_radu Well, that’s a very deep question. Just a team with a Twitter account.",1,8,OpenAI
+Sat Dec 12 00:01:25 +0000 2015,"@benfurneaux Well, I have a Twitter account. But it's human-powered.",2,8,OpenAI
+Fri Dec 11 23:51:57 +0000 2015,"@darkfeign Donating, actually. No equity to exchange here.",2,6,OpenAI
+Fri Dec 11 23:49:21 +0000 2015,@nikant_vohra Thanks!,0,3,OpenAI
+Fri Dec 11 23:02:04 +0000 2015,@gavinsblog Thanks! (Not just lads.),0,7,OpenAI
+Fri Dec 11 23:01:57 +0000 2015,"@fusion87 Thanks! We have a great team, and now the truly hard part (doing great research) awaits.",1,11,OpenAI
+Fri Dec 11 23:00:15 +0000 2015,@cortezoutlaw Thanks for the warm welcome :).,0,3,OpenAI
+Fri Dec 11 22:59:29 +0000 2015,@sdrgalvis Thanks!,0,3,OpenAI
+Fri Dec 11 21:48:49 +0000 2015,@stoups2000 I can indeed! :),0,14,OpenAI
+Fri Dec 11 21:36:44 +0000 2015,"Hello, world: https://t.co/XrT0zxMBCD",1078,1050,OpenAI
